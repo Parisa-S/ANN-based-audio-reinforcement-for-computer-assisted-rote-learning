@@ -1,4 +1,4 @@
-# Building an estimation model for learners' performance
+# Building an estimation model of learners performance 
 
 This repository contains the custom codes and tools develped to obtain the results reported in our article [1]:
 
