@@ -17,7 +17,7 @@ The function estimator_model.py is used for building the estimator. We considere
 
 The function controller.py is integrated with the e-learning software for estimating in an online manner the learners' likelihood of remembering/forgetting. First, the behavioral variables are calculated. 
 
-Should the operating mode of the e-learning software be 'Estimation', the variables are then pre-processed in the same way as described above. The pre-trained estimation model corresponding to the type of the learning material that is being studied is loaded and the pre=processed variables are fed into it as inputs. Depending on the estimation result, the audio key (i.e. trigger or no-trigger) is set and stored in a log file.
+Should the operating mode of the e-learning software be 'Estimation', the variables are then pre-processed in the same way as described above. The pre-trained estimation model corresponding to the type of the learning material that is being studied is loaded and the pre-processed variables are fed into it as inputs. Depending on the estimation result, the audio key (i.e. trigger or no-trigger) is set and stored in a log file.
     
 Should the operating mode of the e-learning software be 'Random', an arbitrary number between 0 and 1 is drawn and compared to a threshold, which is adjusted as the empirical rate of forgetting. If it is lower than the threshold, then the audio key is set to be 'ON' (i.e. audio will be triggered). Finally,  the audio trigger log file is updated 
 
