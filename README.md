@@ -26,10 +26,10 @@ Should the operating mode of the e-learning software be 'Visual',  the leaner is
 
 **References**
 
-[1] Investigation of the effects of audio-reinforcement on recollection rates of e-learning users
-P. Supitayakul, Z. Yücel, A. Monden, and P. Leelaprute
+[1] Investigation of the effects of audio-reinforcement on recollection rates of e-learning users,
+P. Supitayakul, Z. Yücel, A. Monden, and P. Leelaprute,
 Under review
 
-[2] Identification of behavioral variables for efficient representation of difficulty in vocabulary learning systems
-P. Supitayakul, Z. Yücel, A. Monden, and P. Leelaprute
+[2] Identification of behavioral variables for efficient representation of difficulty in vocabulary learning systems,
+P. Supitayakul, Z. Yücel, A. Monden, and P. Leelaprute,
 International Journal of Learning Technologies and Learning Environments, vol. 3, no. 1, pp. 51–60, 2020.
