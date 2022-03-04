@@ -1,13 +1,15 @@
 # Building an estimation model of learners' performance 
 
 This repository contains the custom codes and tools develped to obtain the results reported in our article [1]:
+Note that the raw data set contains privacy sensitive information, which is concealed in this release.
 
-**Data-preprocessing**
+**Activity log files**
 
-The function data_preparation.py contains the subroutines for computing the behavioral variables and carrying out the data the pre-processing steps on them. In that regard, it first computes the cdf of t_c, t_q, t_a and r_qa (See [2] for the details of variable definitions). Based on each of those, it defines a threshold value, which bounds the lower 95% of the relating data. We consider the data points as admissible, which have all their fields below relating thresholds. Namely, if all tc, tq, ta and rqa are below the threshold, we consider that data point as admissible. If any one of them is above the threshold, we discard that data point. 
+The activity log files are recorded from the e-learning software Anki [2]. They contain two basic kinds of information as (i) temporal and (ii) identifier.
 
-The function then clones the data by copying only the admissible data points. In addition, while cloning, we remove the data points which have remember_or_forget 
-as -1. That means the card is removed from the deck of other participants. So there is no point in considering that card or data point.
+The temporal variables are registered in  UNIX time at millisecond resolution and include tp, tf, and te. Here, tp denotes the time of prompt, i.e. the instant when the Q-face of a card appears. In addition,  tf represents the time of flip, i.e. the instant when the learner presses the ''Show Answer'' button and discloses the A-face of the card. Finally,  te stands for the time of evaluation, i.e. the instant when the learner assesses the difficulty of a card by choosing one of  ''Again'', ''Good'' or ''Easy''. For more detail, please see https://docs.ankiweb.net/#/ .
+
+On the other hand, the identifier variables are integer codes used to determine the deck or card that is being studied (i.e.displayed) at a given time instant (e.g. deck ID, card ID). Note that each log file is associated with a single user. Namely, the software recorded one log file into the account of each user. In addition, each line of the activity log file  corresponds to a single action of the user which is considered as a reaction to the software. The structure of each line of data is as follows:  [unix time], function name, data in detail (i.e. flags, queue).
 
 **Model development**
 
@@ -23,10 +25,15 @@ Should the operating mode of the e-learning software be 'Full audio reinforcemen
 
 **References**
 
-[1] Investigation of the effects of audio-reinforcement on recollection rates of e-learning users,
+[1] ANN-based audio reinforcement for computer assisted rote learning,
 P. Supitayakul, Z. Yücel, A. Monden, and P. Leelaprute,
 Under review
 
-[2] Identification of behavioral variables for efficient representation of difficulty in vocabulary learning systems,
+[2] D. Elmes, “Anki - friendly, intelligent flashcards.” https://ankiweb.net/about, 2021.
+
+[3] Identification of behavioral variables for efficient representation of difficulty in vocabulary learning systems,
 P. Supitayakul, Z. Yücel, A. Monden, and P. Leelaprute,
 International Journal of Learning Technologies and Learning Environments, vol. 3, no. 1, pp. 51–60, 2020.
+
+[4] P. Supitayakul, Displaying visual stimuli and recording audio, https://github.com/Parisa-S/Displaying-visual-stimuli-and-recording-audio.
+
