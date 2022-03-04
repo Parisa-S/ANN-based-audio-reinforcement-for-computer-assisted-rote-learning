@@ -1,0 +1,897 @@
+[1636444182414] collection.py:__init__(): file_path\collection.anki2, 2.1.5
+[1636444182494] sched.py:_updateCutoff(): 0, 1636484400
+[1636602885545] collection.py:__init__(): file_path\collection.anki2, 2.1.5
+[1636602885555] sched.py:_updateCutoff(): 2, 1636657200
+[1636602885555] sched.py:unburyCards(): []
+[1636941151608] collection.py:__init__(): file_path\collection.anki2, 2.1.5
+[1636941151617] sched.py:_updateCutoff(): 6, 1637002800
+[1636941151617] sched.py:unburyCards(): []
+[1637126255077] collection.py:__init__(): file_path\collection.anki2, 2.1.5
+[1637126255087] sched.py:_updateCutoff(): 8, 1637175600
+[1637126255087] sched.py:unburyCards(): []
+[1637131609457] collection.py:__init__(): file_path\collection.anki2, 2.1.5
+[1637131609462] sched.py:_updateCutoff(): 8, 1637175600
+[1637131801485] sched.py:getCard(): {'data': '', 'did': 1636444195135, 'due': 37, 'factor': 0, 'flags': 0, 'id': 1636357324640, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1636444195, 'nid': 1636357312100, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1637131805545] reviewer.py:_answerButtonList(): 3
+[1637131816433] sched.py:answerCard(): 1
+[1637131816459] cards.py:flushSched(): {'data': '', 'did': 1636444195135, 'due': 1637131888, 'factor': 0, 'flags': 0, 'id': 1636357324640, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637131816, 'nid': 1636357312100, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1, 'wasNew': True}
+[1637131816459] sched.py:getCard(): {'data': '', 'did': 1636444195135, 'due': 38, 'factor': 0, 'flags': 0, 'id': 1636357335935, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1636444195, 'nid': 1636357324648, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1637131818557] reviewer.py:_answerButtonList(): 3
+[1637131827028] sched.py:answerCard(): 1
+[1637131827049] cards.py:flushSched(): {'data': '', 'did': 1636444195135, 'due': 1637131888, 'factor': 0, 'flags': 0, 'id': 1636357335935, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637131827, 'nid': 1636357324648, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1, 'wasNew': True}
+[1637131827050] sched.py:getCard(): {'data': '', 'did': 1636444195135, 'due': 39, 'factor': 0, 'flags': 0, 'id': 1636357347167, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1636444195, 'nid': 1636357335941, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1637131828535] reviewer.py:_answerButtonList(): 3
+[1637131832624] sched.py:answerCard(): 1
+[1637131832648] cards.py:flushSched(): {'data': '', 'did': 1636444195135, 'due': 1637131900, 'factor': 0, 'flags': 0, 'id': 1636357347167, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637131832, 'nid': 1636357335941, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1, 'wasNew': True}
+[1637131832648] sched.py:getCard(): {'data': '', 'did': 1636444195135, 'due': 40, 'factor': 0, 'flags': 0, 'id': 1636357358450, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1636444195, 'nid': 1636357347174, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1637131834028] reviewer.py:_answerButtonList(): 3
+[1637131839571] sched.py:answerCard(): 1
+[1637131839593] cards.py:flushSched(): {'data': '', 'did': 1636444195135, 'due': 1637131914, 'factor': 0, 'flags': 0, 'id': 1636357358450, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637131839, 'nid': 1636357347174, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1, 'wasNew': True}
+[1637131839594] sched.py:getCard(): {'data': '', 'did': 1636444195135, 'due': 41, 'factor': 0, 'flags': 0, 'id': 1636357369792, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1636444195, 'nid': 1636357358456, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1637131840919] reviewer.py:_answerButtonList(): 3
+[1637131846213] sched.py:answerCard(): 1
+[1637131846236] cards.py:flushSched(): {'data': '', 'did': 1636444195135, 'due': 1637131919, 'factor': 0, 'flags': 0, 'id': 1636357369792, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637131846, 'nid': 1636357358456, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1, 'wasNew': True}
+[1637131846237] sched.py:getCard(): {'data': '', 'did': 1636444195135, 'due': 42, 'factor': 0, 'flags': 0, 'id': 1636357381025, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1636444195, 'nid': 1636357369800, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1637131848039] reviewer.py:_answerButtonList(): 3
+[1637131858173] sched.py:answerCard(): 1
+[1637131858197] cards.py:flushSched(): {'data': '', 'did': 1636444195135, 'due': 1637131920, 'factor': 0, 'flags': 0, 'id': 1636357381025, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637131858, 'nid': 1636357369800, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1, 'wasNew': True}
+[1637131858198] sched.py:getCard(): {'data': '', 'did': 1636444195135, 'due': 43, 'factor': 0, 'flags': 0, 'id': 1636357392879, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1636444195, 'nid': 1636357381032, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1637131859691] reviewer.py:_answerButtonList(): 3
+[1637131864260] sched.py:answerCard(): 1
+[1637131864283] cards.py:flushSched(): {'data': '', 'did': 1636444195135, 'due': 1637131928, 'factor': 0, 'flags': 0, 'id': 1636357392879, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637131864, 'nid': 1636357381032, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1, 'wasNew': True}
+[1637131864283] sched.py:getCard(): {'data': '', 'did': 1636444195135, 'due': 44, 'factor': 0, 'flags': 0, 'id': 1636357405320, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1636444195, 'nid': 1636357392885, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1637131866210] reviewer.py:_answerButtonList(): 3
+[1637131871448] sched.py:answerCard(): 1
+[1637131871473] cards.py:flushSched(): {'data': '', 'did': 1636444195135, 'due': 1637131942, 'factor': 0, 'flags': 0, 'id': 1636357405320, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637131871, 'nid': 1636357392885, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1, 'wasNew': True}
+[1637131871473] sched.py:getCard(): {'data': '', 'did': 1636444195135, 'due': 45, 'factor': 0, 'flags': 0, 'id': 1636357417216, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1636444195, 'nid': 1636357405328, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1637131872929] reviewer.py:_answerButtonList(): 3
+[1637131879169] sched.py:answerCard(): 1
+[1637131879191] cards.py:flushSched(): {'data': '', 'did': 1636444195135, 'due': 1637131948, 'factor': 0, 'flags': 0, 'id': 1636357417216, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637131879, 'nid': 1636357405328, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1, 'wasNew': True}
+[1637131879193] sched.py:getCard(): {'data': '', 'did': 1636444195135, 'due': 46, 'factor': 0, 'flags': 0, 'id': 1636357430720, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1636444195, 'nid': 1636357417222, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1637131880518] reviewer.py:_answerButtonList(): 3
+[1637131880526] reviewer.py:_answerButtonList(): 3
+[1637131887815] sched.py:answerCard(): 1
+[1637131887839] cards.py:flushSched(): {'data': '', 'did': 1636444195135, 'due': 1637131950, 'factor': 0, 'flags': 0, 'id': 1636357430720, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637131887, 'nid': 1636357417222, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1, 'wasNew': True}
+[1637131887839] sched.py:getCard(): {'data': '', 'did': 1636444195135, 'due': 47, 'factor': 0, 'flags': 0, 'id': 1636357442224, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1636444195, 'nid': 1636357430727, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1637131889180] reviewer.py:_answerButtonList(): 3
+[1637131893698] sched.py:answerCard(): 1
+[1637131893722] cards.py:flushSched(): {'data': '', 'did': 1636444195135, 'due': 1637131956, 'factor': 0, 'flags': 0, 'id': 1636357442224, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637131893, 'nid': 1636357430727, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1, 'wasNew': True}
+[1637131893722] sched.py:getCard(): {'data': '', 'did': 1636444195135, 'due': 1637131888, 'factor': 0, 'flags': 0, 'id': 1636357324640, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637131816, 'nid': 1636357312100, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1637131894864] reviewer.py:_answerButtonList(): 3
+[1637131902609] sched.py:answerCard(): 1
+[1637131902633] cards.py:flushSched(): {'data': '', 'did': 1636444195135, 'due': 1637131970, 'factor': 0, 'flags': 0, 'id': 1636357324640, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637131902, 'nid': 1636357312100, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637131902633] sched.py:getCard(): {'data': '', 'did': 1636444195135, 'due': 1637131888, 'factor': 0, 'flags': 0, 'id': 1636357335935, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637131827, 'nid': 1636357324648, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1637131903722] reviewer.py:_answerButtonList(): 3
+[1637131908737] sched.py:answerCard(): 1
+[1637131908762] cards.py:flushSched(): {'data': '', 'did': 1636444195135, 'due': 1637131981, 'factor': 0, 'flags': 0, 'id': 1636357335935, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637131908, 'nid': 1636357324648, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637131908762] sched.py:getCard(): {'data': '', 'did': 1636444195135, 'due': 1637131900, 'factor': 0, 'flags': 0, 'id': 1636357347167, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637131832, 'nid': 1636357335941, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1637131909786] reviewer.py:_answerButtonList(): 3
+[1637131915264] sched.py:answerCard(): 1
+[1637131915288] cards.py:flushSched(): {'data': '', 'did': 1636444195135, 'due': 1637131985, 'factor': 0, 'flags': 0, 'id': 1636357347167, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637131915, 'nid': 1636357335941, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637131915354] sched.py:getCard(): {'data': '', 'did': 1636444195135, 'due': 1637131914, 'factor': 0, 'flags': 0, 'id': 1636357358450, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637131839, 'nid': 1636357347174, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1637131916408] reviewer.py:_answerButtonList(): 3
+[1637131921617] sched.py:answerCard(): 1
+[1637131921642] cards.py:flushSched(): {'data': '', 'did': 1636444195135, 'due': 1637131995, 'factor': 0, 'flags': 0, 'id': 1636357358450, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637131921, 'nid': 1636357347174, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637131921642] sched.py:getCard(): {'data': '', 'did': 1636444195135, 'due': 1637131919, 'factor': 0, 'flags': 0, 'id': 1636357369792, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637131846, 'nid': 1636357358456, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1637131923156] reviewer.py:_answerButtonList(): 3
+[1637131925681] sched.py:answerCard(): 1
+[1637131925707] cards.py:flushSched(): {'data': '', 'did': 1636444195135, 'due': 1637131985, 'factor': 0, 'flags': 0, 'id': 1636357369792, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637131925, 'nid': 1636357358456, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637131925708] sched.py:getCard(): {'data': '', 'did': 1636444195135, 'due': 1637131920, 'factor': 0, 'flags': 0, 'id': 1636357381025, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637131858, 'nid': 1636357369800, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1637131926684] reviewer.py:_answerButtonList(): 3
+[1637131928690] sched.py:answerCard(): 1
+[1637131928714] cards.py:flushSched(): {'data': '', 'did': 1636444195135, 'due': 1637132002, 'factor': 0, 'flags': 0, 'id': 1636357381025, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637131928, 'nid': 1636357369800, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637131928714] sched.py:getCard(): {'data': '', 'did': 1636444195135, 'due': 1637131928, 'factor': 0, 'flags': 0, 'id': 1636357392879, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637131864, 'nid': 1636357381032, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1637131930007] reviewer.py:_answerButtonList(): 3
+[1637131933880] sched.py:answerCard(): 1
+[1637131933904] cards.py:flushSched(): {'data': '', 'did': 1636444195135, 'due': 1637132006, 'factor': 0, 'flags': 0, 'id': 1636357392879, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637131933, 'nid': 1636357381032, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637131933904] sched.py:getCard(): {'data': '', 'did': 1636444195135, 'due': 48, 'factor': 0, 'flags': 0, 'id': 1636357454784, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1636444195, 'nid': 1636357442230, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1637131934941] reviewer.py:_answerButtonList(): 3
+[1637131940750] sched.py:answerCard(): 1
+[1637131940773] cards.py:flushSched(): {'data': '', 'did': 1636444195135, 'due': 1637132007, 'factor': 0, 'flags': 0, 'id': 1636357454784, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637131940, 'nid': 1636357442230, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1, 'wasNew': True}
+[1637131940774] sched.py:getCard(): {'data': '', 'did': 1636444195135, 'due': 1637131942, 'factor': 0, 'flags': 0, 'id': 1636357405320, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637131871, 'nid': 1636357392885, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1637131941846] reviewer.py:_answerButtonList(): 3
+[1637131944687] sched.py:answerCard(): 1
+[1637131944711] cards.py:flushSched(): {'data': '', 'did': 1636444195135, 'due': 1637132017, 'factor': 0, 'flags': 0, 'id': 1636357405320, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637131944, 'nid': 1636357392885, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637131944711] sched.py:getCard(): {'data': '', 'did': 1636444195135, 'due': 1637131948, 'factor': 0, 'flags': 0, 'id': 1636357417216, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637131879, 'nid': 1636357405328, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1637131945626] reviewer.py:_answerButtonList(): 3
+[1637131952327] sched.py:answerCard(): 1
+[1637131952349] cards.py:flushSched(): {'data': '', 'did': 1636444195135, 'due': 1637132015, 'factor': 0, 'flags': 0, 'id': 1636357417216, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637131952, 'nid': 1636357405328, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637131952350] sched.py:getCard(): {'data': '', 'did': 1636444195135, 'due': 1637131950, 'factor': 0, 'flags': 0, 'id': 1636357430720, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637131887, 'nid': 1636357417222, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1637131953224] reviewer.py:_answerButtonList(): 3
+[1637131956366] sched.py:answerCard(): 1
+[1637131956392] cards.py:flushSched(): {'data': '', 'did': 1636444195135, 'due': 1637132028, 'factor': 0, 'flags': 0, 'id': 1636357430720, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637131956, 'nid': 1636357417222, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637131956392] sched.py:getCard(): {'data': '', 'did': 1636444195135, 'due': 1637131956, 'factor': 0, 'flags': 0, 'id': 1636357442224, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637131893, 'nid': 1636357430727, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1637131958724] reviewer.py:_answerButtonList(): 3
+[1637131964550] sched.py:answerCard(): 1
+[1637131964575] cards.py:flushSched(): {'data': '', 'did': 1636444195135, 'due': 1637132038, 'factor': 0, 'flags': 0, 'id': 1636357442224, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637131964, 'nid': 1636357430727, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637131964575] sched.py:getCard(): {'data': '', 'did': 1636444195135, 'due': 1637131970, 'factor': 0, 'flags': 0, 'id': 1636357324640, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637131902, 'nid': 1636357312100, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1}
+[1637131965604] reviewer.py:_answerButtonList(): 3
+[1637131968692] sched.py:answerCard(): 1
+[1637131968716] cards.py:flushSched(): {'data': '', 'did': 1636444195135, 'due': 1637132028, 'factor': 0, 'flags': 0, 'id': 1636357324640, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637131968, 'nid': 1636357312100, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 3, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637131968716] sched.py:getCard(): {'data': '', 'did': 1636444195135, 'due': 1637131981, 'factor': 0, 'flags': 0, 'id': 1636357335935, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637131908, 'nid': 1636357324648, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1}
+[1637131969648] reviewer.py:_answerButtonList(): 3
+[1637131975215] sched.py:answerCard(): 1
+[1637131975240] cards.py:flushSched(): {'data': '', 'did': 1636444195135, 'due': 1637132035, 'factor': 0, 'flags': 0, 'id': 1636357335935, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637131975, 'nid': 1636357324648, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 3, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637131975240] sched.py:getCard(): {'data': '', 'did': 1636444195135, 'due': 1637131985, 'factor': 0, 'flags': 0, 'id': 1636357347167, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637131915, 'nid': 1636357335941, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1}
+[1637131976096] reviewer.py:_answerButtonList(): 3
+[1637131979189] sched.py:answerCard(): 1
+[1637131979210] cards.py:flushSched(): {'data': '', 'did': 1636444195135, 'due': 1637132039, 'factor': 0, 'flags': 0, 'id': 1636357347167, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637131979, 'nid': 1636357335941, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 3, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637131979210] sched.py:getCard(): {'data': '', 'did': 1636444195135, 'due': 1637131985, 'factor': 0, 'flags': 0, 'id': 1636357369792, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637131925, 'nid': 1636357358456, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1}
+[1637131981679] reviewer.py:_answerButtonList(): 3
+[1637131984920] sched.py:answerCard(): 1
+[1637131984944] cards.py:flushSched(): {'data': '', 'did': 1636444195135, 'due': 1637132044, 'factor': 0, 'flags': 0, 'id': 1636357369792, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637131984, 'nid': 1636357358456, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 3, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637131984944] sched.py:getCard(): {'data': '', 'did': 1636444195135, 'due': 1637131995, 'factor': 0, 'flags': 0, 'id': 1636357358450, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637131921, 'nid': 1636357347174, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1}
+[1637131986470] reviewer.py:_answerButtonList(): 3
+[1637131988725] sched.py:answerCard(): 1
+[1637131988750] cards.py:flushSched(): {'data': '', 'did': 1636444195135, 'due': 1637132048, 'factor': 0, 'flags': 0, 'id': 1636357358450, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637131988, 'nid': 1636357347174, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 3, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637131988750] sched.py:getCard(): {'data': '', 'did': 1636444195135, 'due': 1637132002, 'factor': 0, 'flags': 0, 'id': 1636357381025, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637131928, 'nid': 1636357369800, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1}
+[1637131990858] reviewer.py:_answerButtonList(): 3
+[1637131992232] sched.py:answerCard(): 1
+[1637131992255] cards.py:flushSched(): {'data': '', 'did': 1636444195135, 'due': 1637132052, 'factor': 0, 'flags': 0, 'id': 1636357381025, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637131992, 'nid': 1636357369800, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 3, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637131992255] sched.py:getCard(): {'data': '', 'did': 1636444195135, 'due': 1637132006, 'factor': 0, 'flags': 0, 'id': 1636357392879, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637131933, 'nid': 1636357381032, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1}
+[1637131994095] reviewer.py:_answerButtonList(): 3
+[1637131997912] sched.py:answerCard(): 1
+[1637131997937] cards.py:flushSched(): {'data': '', 'did': 1636444195135, 'due': 1637132057, 'factor': 0, 'flags': 0, 'id': 1636357392879, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637131997, 'nid': 1636357381032, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 3, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637131997937] sched.py:getCard(): {'data': '', 'did': 1636444195135, 'due': 1637132007, 'factor': 0, 'flags': 0, 'id': 1636357454784, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637131940, 'nid': 1636357442230, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1637131999008] reviewer.py:_answerButtonList(): 3
+[1637132004882] sched.py:answerCard(): 1
+[1637132004908] cards.py:flushSched(): {'data': '', 'did': 1636444195135, 'due': 1637132064, 'factor': 0, 'flags': 0, 'id': 1636357454784, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637132004, 'nid': 1636357442230, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637132004908] sched.py:getCard(): {'data': '', 'did': 1636444195135, 'due': 1637132015, 'factor': 0, 'flags': 0, 'id': 1636357417216, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637131952, 'nid': 1636357405328, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1}
+[1637132006573] reviewer.py:_answerButtonList(): 3
+[1637132010341] sched.py:answerCard(): 1
+[1637132010365] cards.py:flushSched(): {'data': '', 'did': 1636444195135, 'due': 1637132070, 'factor': 0, 'flags': 0, 'id': 1636357417216, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637132010, 'nid': 1636357405328, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 3, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637132010365] sched.py:getCard(): {'data': '', 'did': 1636444195135, 'due': 1637132017, 'factor': 0, 'flags': 0, 'id': 1636357405320, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637131944, 'nid': 1636357392885, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1}
+[1637132011613] reviewer.py:_answerButtonList(): 3
+[1637132017577] sched.py:answerCard(): 1
+[1637132017602] cards.py:flushSched(): {'data': '', 'did': 1636444195135, 'due': 1637132089, 'factor': 0, 'flags': 0, 'id': 1636357405320, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637132017, 'nid': 1636357392885, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 3, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637132017602] sched.py:getCard(): {'data': '', 'did': 1636444195135, 'due': 1637132028, 'factor': 0, 'flags': 0, 'id': 1636357324640, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637131968, 'nid': 1636357312100, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 3, 'type': 1, 'usn': -1}
+[1637132018517] reviewer.py:_answerButtonList(): 3
+[1637132021052] sched.py:answerCard(): 1
+[1637132021077] cards.py:flushSched(): {'data': '', 'did': 1636444195135, 'due': 1637132081, 'factor': 0, 'flags': 0, 'id': 1636357324640, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637132021, 'nid': 1636357312100, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 4, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637132021078] sched.py:getCard(): {'data': '', 'did': 1636444195135, 'due': 1637132028, 'factor': 0, 'flags': 0, 'id': 1636357430720, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637131956, 'nid': 1636357417222, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1}
+[1637132022438] reviewer.py:_answerButtonList(): 3
+[1637132027724] sched.py:answerCard(): 1
+[1637132027749] cards.py:flushSched(): {'data': '', 'did': 1636444195135, 'due': 1637132087, 'factor': 0, 'flags': 0, 'id': 1636357430720, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637132027, 'nid': 1636357417222, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 3, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637132027749] sched.py:getCard(): {'data': '', 'did': 1636444195135, 'due': 1637132035, 'factor': 0, 'flags': 0, 'id': 1636357335935, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637131975, 'nid': 1636357324648, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 3, 'type': 1, 'usn': -1}
+[1637132029520] reviewer.py:_answerButtonList(): 3
+[1637132036816] sched.py:answerCard(): 1
+[1637132036841] cards.py:flushSched(): {'data': '', 'did': 1636444195135, 'due': 1637132106, 'factor': 0, 'flags': 0, 'id': 1636357335935, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637132036, 'nid': 1636357324648, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 4, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637132036841] sched.py:getCard(): {'data': '', 'did': 1636444195135, 'due': 1637132038, 'factor': 0, 'flags': 0, 'id': 1636357442224, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637131964, 'nid': 1636357430727, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1}
+[1637132037771] reviewer.py:_answerButtonList(): 3
+[1637132041483] sched.py:answerCard(): 1
+[1637132041507] cards.py:flushSched(): {'data': '', 'did': 1636444195135, 'due': 1637132103, 'factor': 0, 'flags': 0, 'id': 1636357442224, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637132041, 'nid': 1636357430727, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 3, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637132041508] sched.py:getCard(): {'data': '', 'did': 1636444195135, 'due': 1637132039, 'factor': 0, 'flags': 0, 'id': 1636357347167, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637131979, 'nid': 1636357335941, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 3, 'type': 1, 'usn': -1}
+[1637132042815] reviewer.py:_answerButtonList(): 3
+[1637132161691] sched.py:getCard(): {'data': '', 'did': 1636444200820, 'due': 61, 'factor': 0, 'flags': 0, 'id': 1636438954840, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1636444200, 'nid': 1636438934643, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1637132164714] reviewer.py:_answerButtonList(): 3
+[1637132173513] sched.py:answerCard(): 1
+[1637132173538] cards.py:flushSched(): {'data': '', 'did': 1636444200820, 'due': 1637132246, 'factor': 0, 'flags': 0, 'id': 1636438954840, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637132173, 'nid': 1636438934643, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1, 'wasNew': True}
+[1637132173538] sched.py:getCard(): {'data': '', 'did': 1636444200820, 'due': 62, 'factor': 0, 'flags': 0, 'id': 1636438973039, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1636444200, 'nid': 1636438954847, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1637132175180] reviewer.py:_answerButtonList(): 3
+[1637132182695] sched.py:answerCard(): 1
+[1637132182718] cards.py:flushSched(): {'data': '', 'did': 1636444200820, 'due': 1637132244, 'factor': 0, 'flags': 0, 'id': 1636438973039, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637132182, 'nid': 1636438954847, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1, 'wasNew': True}
+[1637132182719] sched.py:getCard(): {'data': '', 'did': 1636444200820, 'due': 63, 'factor': 0, 'flags': 0, 'id': 1636438989296, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1636444200, 'nid': 1636438973182, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1637132183716] reviewer.py:_answerButtonList(): 3
+[1637132190171] sched.py:answerCard(): 1
+[1637132190197] cards.py:flushSched(): {'data': '', 'did': 1636444200820, 'due': 1637132252, 'factor': 0, 'flags': 0, 'id': 1636438989296, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637132190, 'nid': 1636438973182, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1, 'wasNew': True}
+[1637132190197] sched.py:getCard(): {'data': '', 'did': 1636444200820, 'due': 64, 'factor': 0, 'flags': 0, 'id': 1636439005367, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1636444200, 'nid': 1636438989301, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1637132191170] reviewer.py:_answerButtonList(): 3
+[1637132197123] sched.py:answerCard(): 1
+[1637132197146] cards.py:flushSched(): {'data': '', 'did': 1636444200820, 'due': 1637132271, 'factor': 0, 'flags': 0, 'id': 1636439005367, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637132197, 'nid': 1636438989301, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1, 'wasNew': True}
+[1637132197146] sched.py:getCard(): {'data': '', 'did': 1636444200820, 'due': 65, 'factor': 0, 'flags': 0, 'id': 1636439023001, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1636444200, 'nid': 1636439005373, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1637132198276] reviewer.py:_answerButtonList(): 3
+[1637132207372] sched.py:answerCard(): 1
+[1637132207396] cards.py:flushSched(): {'data': '', 'did': 1636444200820, 'due': 1637132271, 'factor': 0, 'flags': 0, 'id': 1636439023001, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637132207, 'nid': 1636439005373, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1, 'wasNew': True}
+[1637132207396] sched.py:getCard(): {'data': '', 'did': 1636444200820, 'due': 66, 'factor': 0, 'flags': 0, 'id': 1636439040591, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1636444200, 'nid': 1636439023006, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1637132208368] reviewer.py:_answerButtonList(): 3
+[1637132215433] sched.py:answerCard(): 1
+[1637132215456] cards.py:flushSched(): {'data': '', 'did': 1636444200820, 'due': 1637132278, 'factor': 0, 'flags': 0, 'id': 1636439040591, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637132215, 'nid': 1636439023006, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1, 'wasNew': True}
+[1637132215513] sched.py:getCard(): {'data': '', 'did': 1636444200820, 'due': 67, 'factor': 0, 'flags': 0, 'id': 1636439066360, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1636444200, 'nid': 1636439040597, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1637132216415] reviewer.py:_answerButtonList(): 3
+[1637132223142] sched.py:answerCard(): 1
+[1637132223166] cards.py:flushSched(): {'data': '', 'did': 1636444200820, 'due': 1637132292, 'factor': 0, 'flags': 0, 'id': 1636439066360, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637132223, 'nid': 1636439040597, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1, 'wasNew': True}
+[1637132223166] sched.py:getCard(): {'data': '', 'did': 1636444200820, 'due': 68, 'factor': 0, 'flags': 0, 'id': 1636439085112, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1636444200, 'nid': 1636439066365, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1637132224057] reviewer.py:_answerButtonList(): 3
+[1637132230917] sched.py:answerCard(): 1
+[1637132230941] cards.py:flushSched(): {'data': '', 'did': 1636444200820, 'due': 1637132303, 'factor': 0, 'flags': 0, 'id': 1636439085112, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637132230, 'nid': 1636439066365, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1, 'wasNew': True}
+[1637132230941] sched.py:getCard(): {'data': '', 'did': 1636444200820, 'due': 69, 'factor': 0, 'flags': 0, 'id': 1636439102293, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1636444200, 'nid': 1636439085117, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1637132232484] reviewer.py:_answerButtonList(): 3
+[1637132240624] sched.py:answerCard(): 1
+[1637132240647] cards.py:flushSched(): {'data': '', 'did': 1636444200820, 'due': 1637132313, 'factor': 0, 'flags': 0, 'id': 1636439102293, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637132240, 'nid': 1636439085117, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1, 'wasNew': True}
+[1637132240647] sched.py:getCard(): {'data': '', 'did': 1636444200820, 'due': 70, 'factor': 0, 'flags': 0, 'id': 1636439120248, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1636444200, 'nid': 1636439102299, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1637132241913] reviewer.py:_answerButtonList(): 3
+[1637132248593] sched.py:answerCard(): 1
+[1637132248617] cards.py:flushSched(): {'data': '', 'did': 1636444200820, 'due': 1637132317, 'factor': 0, 'flags': 0, 'id': 1636439120248, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637132248, 'nid': 1636439102299, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1, 'wasNew': True}
+[1637132248618] sched.py:getCard(): {'data': '', 'did': 1636444200820, 'due': 1637132244, 'factor': 0, 'flags': 0, 'id': 1636438973039, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637132182, 'nid': 1636438954847, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1637132250985] reviewer.py:_answerButtonList(): 3
+[1637132258815] sched.py:answerCard(): 1
+[1637132258839] cards.py:flushSched(): {'data': '', 'did': 1636444200820, 'due': 1637132322, 'factor': 0, 'flags': 0, 'id': 1636438973039, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637132258, 'nid': 1636438954847, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637132258841] sched.py:getCard(): {'data': '', 'did': 1636444200820, 'due': 1637132246, 'factor': 0, 'flags': 0, 'id': 1636438954840, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637132173, 'nid': 1636438934643, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1637132261355] reviewer.py:_answerButtonList(): 3
+[1637132266126] sched.py:answerCard(): 2
+[1637132266152] cards.py:flushSched(): {'data': '', 'did': 1636444200820, 'due': 1637132878, 'factor': 0, 'flags': 0, 'id': 1636438954840, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1637132266, 'nid': 1636438934643, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637132266152] sched.py:getCard(): {'data': '', 'did': 1636444200820, 'due': 1637132252, 'factor': 0, 'flags': 0, 'id': 1636438989296, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637132190, 'nid': 1636438973182, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1637132267956] reviewer.py:_answerButtonList(): 3
+[1637132274987] sched.py:answerCard(): 1
+[1637132275009] cards.py:flushSched(): {'data': '', 'did': 1636444200820, 'due': 1637132341, 'factor': 0, 'flags': 0, 'id': 1636438989296, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637132275, 'nid': 1636438973182, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637132275010] sched.py:getCard(): {'data': '', 'did': 1636444200820, 'due': 1637132271, 'factor': 0, 'flags': 0, 'id': 1636439005367, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637132197, 'nid': 1636438989301, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1637132276385] reviewer.py:_answerButtonList(): 3
+[1637132285243] sched.py:answerCard(): 1
+[1637132285266] cards.py:flushSched(): {'data': '', 'did': 1636444200820, 'due': 1637132345, 'factor': 0, 'flags': 0, 'id': 1636439005367, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637132285, 'nid': 1636438989301, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637132285267] sched.py:getCard(): {'data': '', 'did': 1636444200820, 'due': 1637132271, 'factor': 0, 'flags': 0, 'id': 1636439023001, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637132207, 'nid': 1636439005373, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1637132288047] reviewer.py:_answerButtonList(): 3
+[1637132293220] sched.py:answerCard(): 1
+[1637132293241] cards.py:flushSched(): {'data': '', 'did': 1636444200820, 'due': 1637132362, 'factor': 0, 'flags': 0, 'id': 1636439023001, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637132293, 'nid': 1636439005373, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637132293242] sched.py:getCard(): {'data': '', 'did': 1636444200820, 'due': 1637132278, 'factor': 0, 'flags': 0, 'id': 1636439040591, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637132215, 'nid': 1636439023006, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1637132294330] reviewer.py:_answerButtonList(): 3
+[1637132301348] sched.py:answerCard(): 1
+[1637132301373] cards.py:flushSched(): {'data': '', 'did': 1636444200820, 'due': 1637132375, 'factor': 0, 'flags': 0, 'id': 1636439040591, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637132301, 'nid': 1636439023006, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637132301373] sched.py:getCard(): {'data': '', 'did': 1636444200820, 'due': 1637132292, 'factor': 0, 'flags': 0, 'id': 1636439066360, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637132223, 'nid': 1636439040597, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1637132302790] reviewer.py:_answerButtonList(): 3
+[1637132309622] sched.py:answerCard(): 1
+[1637132309647] cards.py:flushSched(): {'data': '', 'did': 1636444200820, 'due': 1637132372, 'factor': 0, 'flags': 0, 'id': 1636439066360, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637132309, 'nid': 1636439040597, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637132309647] sched.py:getCard(): {'data': '', 'did': 1636444200820, 'due': 1637132303, 'factor': 0, 'flags': 0, 'id': 1636439085112, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637132230, 'nid': 1636439066365, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1637132310967] reviewer.py:_answerButtonList(): 3
+[1637132313714] sched.py:answerCard(): 2
+[1637132313738] cards.py:flushSched(): {'data': '', 'did': 1636444200820, 'due': 1637132982, 'factor': 0, 'flags': 0, 'id': 1636439085112, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1637132313, 'nid': 1636439066365, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637132313738] sched.py:getCard(): {'data': '', 'did': 1636444200820, 'due': 1637132313, 'factor': 0, 'flags': 0, 'id': 1636439102293, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637132240, 'nid': 1636439085117, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1637132315498] reviewer.py:_answerButtonList(): 3
+[1637132323440] sched.py:answerCard(): 1
+[1637132323465] cards.py:flushSched(): {'data': '', 'did': 1636444200820, 'due': 1637132394, 'factor': 0, 'flags': 0, 'id': 1636439102293, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637132323, 'nid': 1636439085117, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637132323465] sched.py:getCard(): {'data': '', 'did': 1636444200820, 'due': 1637132317, 'factor': 0, 'flags': 0, 'id': 1636439120248, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637132248, 'nid': 1636439102299, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1637132325333] reviewer.py:_answerButtonList(): 3
+[1637132332938] sched.py:answerCard(): 1
+[1637132332962] cards.py:flushSched(): {'data': '', 'did': 1636444200820, 'due': 1637132395, 'factor': 0, 'flags': 0, 'id': 1636439120248, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637132332, 'nid': 1636439102299, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637132332962] sched.py:getCard(): {'data': '', 'did': 1636444200820, 'due': 1637132322, 'factor': 0, 'flags': 0, 'id': 1636438973039, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637132258, 'nid': 1636438954847, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1}
+[1637132335919] reviewer.py:_answerButtonList(): 3
+[1637132341707] sched.py:answerCard(): 1
+[1637132341730] cards.py:flushSched(): {'data': '', 'did': 1636444200820, 'due': 1637132404, 'factor': 0, 'flags': 0, 'id': 1636438973039, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637132341, 'nid': 1636438954847, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 3, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637132341731] sched.py:getCard(): {'data': '', 'did': 1636444200820, 'due': 1637132341, 'factor': 0, 'flags': 0, 'id': 1636438989296, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637132275, 'nid': 1636438973182, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1}
+[1637132343491] reviewer.py:_answerButtonList(): 3
+[1637132348253] sched.py:answerCard(): 2
+[1637132348276] cards.py:flushSched(): {'data': '', 'did': 1636444200820, 'due': 1637133078, 'factor': 0, 'flags': 0, 'id': 1636438989296, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1637132348, 'nid': 1636438973182, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 3, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637132348276] sched.py:getCard(): {'data': '', 'did': 1636444200820, 'due': 1637132345, 'factor': 0, 'flags': 0, 'id': 1636439005367, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637132285, 'nid': 1636438989301, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1}
+[1637132350937] reviewer.py:_answerButtonList(): 3
+[1637132357479] sched.py:answerCard(): 2
+[1637132357505] cards.py:flushSched(): {'data': '', 'did': 1636444200820, 'due': 1637133012, 'factor': 0, 'flags': 0, 'id': 1636439005367, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1637132357, 'nid': 1636438989301, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 3, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637132357505] sched.py:getCard(): {'data': '', 'did': 1636444200820, 'due': 71, 'factor': 0, 'flags': 0, 'id': 1636439140055, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1636444200, 'nid': 1636439120254, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1637132358716] reviewer.py:_answerButtonList(): 3
+[1637132367910] sched.py:answerCard(): 1
+[1637132367933] cards.py:flushSched(): {'data': '', 'did': 1636444200820, 'due': 1637132430, 'factor': 0, 'flags': 0, 'id': 1636439140055, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637132367, 'nid': 1636439120254, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1, 'wasNew': True}
+[1637132367934] sched.py:getCard(): {'data': '', 'did': 1636444200820, 'due': 1637132362, 'factor': 0, 'flags': 0, 'id': 1636439023001, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637132293, 'nid': 1636439005373, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1}
+[1637132370151] reviewer.py:_answerButtonList(): 3
+[1637132375591] sched.py:answerCard(): 2
+[1637132375616] cards.py:flushSched(): {'data': '', 'did': 1636444200820, 'due': 1637133033, 'factor': 0, 'flags': 0, 'id': 1636439023001, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1637132375, 'nid': 1636439005373, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 3, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637132375616] sched.py:getCard(): {'data': '', 'did': 1636444200820, 'due': 1637132372, 'factor': 0, 'flags': 0, 'id': 1636439066360, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637132309, 'nid': 1636439040597, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1}
+[1637132377273] reviewer.py:_answerButtonList(): 3
+[1637132383175] sched.py:answerCard(): 1
+[1637132383198] cards.py:flushSched(): {'data': '', 'did': 1636444200820, 'due': 1637132454, 'factor': 0, 'flags': 0, 'id': 1636439066360, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637132383, 'nid': 1636439040597, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 3, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637132383199] sched.py:getCard(): {'data': '', 'did': 1636444200820, 'due': 1637132375, 'factor': 0, 'flags': 0, 'id': 1636439040591, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637132301, 'nid': 1636439023006, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1}
+[1637132384393] reviewer.py:_answerButtonList(): 3
+[1637132391816] sched.py:answerCard(): 1
+[1637132391841] cards.py:flushSched(): {'data': '', 'did': 1636444200820, 'due': 1637132464, 'factor': 0, 'flags': 0, 'id': 1636439040591, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637132391, 'nid': 1636439023006, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 3, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637132391841] sched.py:getCard(): {'data': '', 'did': 1636444200820, 'due': 72, 'factor': 0, 'flags': 0, 'id': 1636439167072, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1636444200, 'nid': 1636439140061, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1637132393921] reviewer.py:_answerButtonList(): 3
+[1637132401678] sched.py:answerCard(): 1
+[1637132401701] cards.py:flushSched(): {'data': '', 'did': 1636444200820, 'due': 1637132464, 'factor': 0, 'flags': 0, 'id': 1636439167072, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637132401, 'nid': 1636439140061, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1, 'wasNew': True}
+[1637132401701] sched.py:getCard(): {'data': '', 'did': 1636444200820, 'due': 1637132394, 'factor': 0, 'flags': 0, 'id': 1636439102293, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637132323, 'nid': 1636439085117, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1}
+[1637132404128] reviewer.py:_answerButtonList(): 3
+[1637132627793] sched.py:getCard(): {'data': '', 'did': 1636444188795, 'due': 1, 'factor': 0, 'flags': 0, 'id': 1636356378596, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1636444188, 'nid': 1636356377012, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1637132630649] reviewer.py:_answerButtonList(): 3
+[1637132634491] sched.py:answerCard(): 1
+[1637132634514] cards.py:flushSched(): {'data': '', 'did': 1636444188795, 'due': 1637132700, 'factor': 0, 'flags': 0, 'id': 1636356378596, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637132634, 'nid': 1636356377012, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1, 'wasNew': True}
+[1637132634573] sched.py:getCard(): {'data': '', 'did': 1636444188795, 'due': 2, 'factor': 0, 'flags': 0, 'id': 1636356412181, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1636444188, 'nid': 1636356411027, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1637132636043] reviewer.py:_answerButtonList(): 3
+[1637132639078] sched.py:answerCard(): 1
+[1637132639101] cards.py:flushSched(): {'data': '', 'did': 1636444188795, 'due': 1637132709, 'factor': 0, 'flags': 0, 'id': 1636356412181, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637132639, 'nid': 1636356411027, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1, 'wasNew': True}
+[1637132639101] sched.py:getCard(): {'data': '', 'did': 1636444188795, 'due': 3, 'factor': 0, 'flags': 0, 'id': 1636356423908, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1636444188, 'nid': 1636356412187, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1637132640487] reviewer.py:_answerButtonList(): 3
+[1637132647717] sched.py:answerCard(): 1
+[1637132647740] cards.py:flushSched(): {'data': '', 'did': 1636444188795, 'due': 1637132716, 'factor': 0, 'flags': 0, 'id': 1636356423908, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637132647, 'nid': 1636356412187, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1, 'wasNew': True}
+[1637132647740] sched.py:getCard(): {'data': '', 'did': 1636444188795, 'due': 4, 'factor': 0, 'flags': 0, 'id': 1636356436076, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1636444188, 'nid': 1636356423915, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1637132649049] reviewer.py:_answerButtonList(): 3
+[1637132655080] sched.py:answerCard(): 1
+[1637132655103] cards.py:flushSched(): {'data': '', 'did': 1636444188795, 'due': 1637132723, 'factor': 0, 'flags': 0, 'id': 1636356436076, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637132655, 'nid': 1636356423915, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1, 'wasNew': True}
+[1637132655103] sched.py:getCard(): {'data': '', 'did': 1636444188795, 'due': 5, 'factor': 0, 'flags': 0, 'id': 1636356448061, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1636444188, 'nid': 1636356436082, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1637132656117] reviewer.py:_answerButtonList(): 3
+[1637132663136] sched.py:answerCard(): 1
+[1637132663160] cards.py:flushSched(): {'data': '', 'did': 1636444188795, 'due': 1637132730, 'factor': 0, 'flags': 0, 'id': 1636356448061, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637132663, 'nid': 1636356436082, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1, 'wasNew': True}
+[1637132663161] sched.py:getCard(): {'data': '', 'did': 1636444188795, 'due': 6, 'factor': 0, 'flags': 0, 'id': 1636356459483, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1636444188, 'nid': 1636356448068, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1637132664201] reviewer.py:_answerButtonList(): 3
+[1637132667748] sched.py:answerCard(): 1
+[1637132667769] cards.py:flushSched(): {'data': '', 'did': 1636444188795, 'due': 1637132739, 'factor': 0, 'flags': 0, 'id': 1636356459483, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637132667, 'nid': 1636356448068, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1, 'wasNew': True}
+[1637132667769] sched.py:getCard(): {'data': '', 'did': 1636444188795, 'due': 7, 'factor': 0, 'flags': 0, 'id': 1636356471469, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1636444188, 'nid': 1636356459490, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1637132668718] reviewer.py:_answerButtonList(): 3
+[1637132676436] sched.py:answerCard(): 1
+[1637132676460] cards.py:flushSched(): {'data': '', 'did': 1636444188795, 'due': 1637132750, 'factor': 0, 'flags': 0, 'id': 1636356471469, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637132676, 'nid': 1636356459490, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1, 'wasNew': True}
+[1637132676460] sched.py:getCard(): {'data': '', 'did': 1636444188795, 'due': 8, 'factor': 0, 'flags': 0, 'id': 1636356484133, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1636444188, 'nid': 1636356471476, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1637132677435] reviewer.py:_answerButtonList(): 3
+[1637132681334] sched.py:answerCard(): 1
+[1637132681358] cards.py:flushSched(): {'data': '', 'did': 1636444188795, 'due': 1637132750, 'factor': 0, 'flags': 0, 'id': 1636356484133, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637132681, 'nid': 1636356471476, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1, 'wasNew': True}
+[1637132681358] sched.py:getCard(): {'data': '', 'did': 1636444188795, 'due': 9, 'factor': 0, 'flags': 0, 'id': 1636356496044, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1636444188, 'nid': 1636356484140, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1637132682696] reviewer.py:_answerButtonList(): 3
+[1637132688056] sched.py:answerCard(): 1
+[1637132688080] cards.py:flushSched(): {'data': '', 'did': 1636444188795, 'due': 1637132757, 'factor': 0, 'flags': 0, 'id': 1636356496044, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637132688, 'nid': 1636356484140, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1, 'wasNew': True}
+[1637132688081] sched.py:getCard(): {'data': '', 'did': 1636444188795, 'due': 10, 'factor': 0, 'flags': 0, 'id': 1636356507477, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1636444188, 'nid': 1636356496051, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1637132689235] reviewer.py:_answerButtonList(): 3
+[1637132695358] sched.py:answerCard(): 1
+[1637132695381] cards.py:flushSched(): {'data': '', 'did': 1636444188795, 'due': 1637132756, 'factor': 0, 'flags': 0, 'id': 1636356507477, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637132695, 'nid': 1636356496051, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1, 'wasNew': True}
+[1637132695381] sched.py:getCard(): {'data': '', 'did': 1636444188795, 'due': 11, 'factor': 0, 'flags': 0, 'id': 1636356518900, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1636444188, 'nid': 1636356507484, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1637132696874] reviewer.py:_answerButtonList(): 3
+[1637132702279] sched.py:answerCard(): 1
+[1637132702301] cards.py:flushSched(): {'data': '', 'did': 1636444188795, 'due': 1637132770, 'factor': 0, 'flags': 0, 'id': 1636356518900, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637132702, 'nid': 1636356507484, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1, 'wasNew': True}
+[1637132702301] sched.py:getCard(): {'data': '', 'did': 1636444188795, 'due': 1637132700, 'factor': 0, 'flags': 0, 'id': 1636356378596, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637132634, 'nid': 1636356377012, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1637132703420] reviewer.py:_answerButtonList(): 3
+[1637132705340] sched.py:answerCard(): 2
+[1637132705369] cards.py:flushSched(): {'data': '', 'did': 1636444188795, 'due': 1637133438, 'factor': 0, 'flags': 0, 'id': 1636356378596, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1637132705, 'nid': 1636356377012, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637132705369] sched.py:getCard(): {'data': '', 'did': 1636444188795, 'due': 12, 'factor': 0, 'flags': 0, 'id': 1636356530844, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1636444188, 'nid': 1636356518907, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1637132707197] reviewer.py:_answerButtonList(): 3
+[1637132714904] sched.py:answerCard(): 1
+[1637132714928] cards.py:flushSched(): {'data': '', 'did': 1636444188795, 'due': 1637132786, 'factor': 0, 'flags': 0, 'id': 1636356530844, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637132714, 'nid': 1636356518907, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1, 'wasNew': True}
+[1637132714928] sched.py:getCard(): {'data': '', 'did': 1636444188795, 'due': 1637132709, 'factor': 0, 'flags': 0, 'id': 1636356412181, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637132639, 'nid': 1636356411027, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1637132716535] reviewer.py:_answerButtonList(): 3
+[1637132718783] sched.py:answerCard(): 2
+[1637132718808] cards.py:flushSched(): {'data': '', 'did': 1636444188795, 'due': 1637133320, 'factor': 0, 'flags': 0, 'id': 1636356412181, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1637132718, 'nid': 1636356411027, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637132718809] sched.py:getCard(): {'data': '', 'did': 1636444188795, 'due': 1637132716, 'factor': 0, 'flags': 0, 'id': 1636356423908, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637132647, 'nid': 1636356412187, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1637132721025] reviewer.py:_answerButtonList(): 3
+[1637132726644] sched.py:answerCard(): 1
+[1637132726669] cards.py:flushSched(): {'data': '', 'did': 1636444188795, 'due': 1637132786, 'factor': 0, 'flags': 0, 'id': 1636356423908, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637132726, 'nid': 1636356412187, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637132726669] sched.py:getCard(): {'data': '', 'did': 1636444188795, 'due': 1637132723, 'factor': 0, 'flags': 0, 'id': 1636356436076, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637132655, 'nid': 1636356423915, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1637132728954] reviewer.py:_answerButtonList(): 3
+[1637132732100] sched.py:answerCard(): 1
+[1637132732123] cards.py:flushSched(): {'data': '', 'did': 1636444188795, 'due': 1637132792, 'factor': 0, 'flags': 0, 'id': 1636356436076, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637132732, 'nid': 1636356423915, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637132732123] sched.py:getCard(): {'data': '', 'did': 1636444188795, 'due': 1637132730, 'factor': 0, 'flags': 0, 'id': 1636356448061, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637132663, 'nid': 1636356436082, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1637132733137] reviewer.py:_answerButtonList(): 3
+[1637132736369] sched.py:answerCard(): 1
+[1637132736394] cards.py:flushSched(): {'data': '', 'did': 1636444188795, 'due': 1637132809, 'factor': 0, 'flags': 0, 'id': 1636356448061, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637132736, 'nid': 1636356436082, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637132736394] sched.py:getCard(): {'data': '', 'did': 1636444188795, 'due': 1637132739, 'factor': 0, 'flags': 0, 'id': 1636356459483, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637132667, 'nid': 1636356448068, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1637132737606] reviewer.py:_answerButtonList(): 3
+[1637132740267] sched.py:answerCard(): 1
+[1637132740292] cards.py:flushSched(): {'data': '', 'did': 1636444188795, 'due': 1637132804, 'factor': 0, 'flags': 0, 'id': 1636356459483, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637132740, 'nid': 1636356448068, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637132740292] sched.py:getCard(): {'data': '', 'did': 1636444188795, 'due': 1637132750, 'factor': 0, 'flags': 0, 'id': 1636356471469, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637132676, 'nid': 1636356459490, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1637132741723] reviewer.py:_answerButtonList(): 3
+[1637132752238] sched.py:answerCard(): 1
+[1637132752261] cards.py:flushSched(): {'data': '', 'did': 1636444188795, 'due': 1637132813, 'factor': 0, 'flags': 0, 'id': 1636356471469, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637132752, 'nid': 1636356459490, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637132752262] sched.py:getCard(): {'data': '', 'did': 1636444188795, 'due': 1637132750, 'factor': 0, 'flags': 0, 'id': 1636356484133, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637132681, 'nid': 1636356471476, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1637132753851] reviewer.py:_answerButtonList(): 3
+[1637132760195] sched.py:answerCard(): 1
+[1637132760220] cards.py:flushSched(): {'data': '', 'did': 1636444188795, 'due': 1637132829, 'factor': 0, 'flags': 0, 'id': 1636356484133, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637132760, 'nid': 1636356471476, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637132760220] sched.py:getCard(): {'data': '', 'did': 1636444188795, 'due': 1637132756, 'factor': 0, 'flags': 0, 'id': 1636356507477, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637132695, 'nid': 1636356496051, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1637132761329] reviewer.py:_answerButtonList(): 3
+[1637132765294] sched.py:answerCard(): 1
+[1637132765324] cards.py:flushSched(): {'data': '', 'did': 1636444188795, 'due': 1637132839, 'factor': 0, 'flags': 0, 'id': 1636356507477, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637132765, 'nid': 1636356496051, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637132765324] sched.py:getCard(): {'data': '', 'did': 1636444188795, 'due': 1637132757, 'factor': 0, 'flags': 0, 'id': 1636356496044, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637132688, 'nid': 1636356484140, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1637132766609] reviewer.py:_answerButtonList(): 3
+[1637132772556] sched.py:answerCard(): 1
+[1637132772595] cards.py:flushSched(): {'data': '', 'did': 1636444188795, 'due': 1637132843, 'factor': 0, 'flags': 0, 'id': 1636356496044, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637132772, 'nid': 1636356484140, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637132772596] sched.py:getCard(): {'data': '', 'did': 1636444188795, 'due': 1637132770, 'factor': 0, 'flags': 0, 'id': 1636356518900, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637132702, 'nid': 1636356507484, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1637132773988] reviewer.py:_answerButtonList(): 3
+[1637132778661] sched.py:answerCard(): 1
+[1637132778684] cards.py:flushSched(): {'data': '', 'did': 1636444188795, 'due': 1637132844, 'factor': 0, 'flags': 0, 'id': 1636356518900, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637132778, 'nid': 1636356507484, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637132778685] sched.py:getCard(): {'data': '', 'did': 1636444188795, 'due': 1637132786, 'factor': 0, 'flags': 0, 'id': 1636356423908, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637132726, 'nid': 1636356412187, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1}
+[1637132780078] reviewer.py:_answerButtonList(): 3
+[1637132789677] sched.py:answerCard(): 1
+[1637132789701] cards.py:flushSched(): {'data': '', 'did': 1636444188795, 'due': 1637132851, 'factor': 0, 'flags': 0, 'id': 1636356423908, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637132789, 'nid': 1636356412187, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 3, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637132789701] sched.py:getCard(): {'data': '', 'did': 1636444188795, 'due': 1637132786, 'factor': 0, 'flags': 0, 'id': 1636356530844, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637132714, 'nid': 1636356518907, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1637132792773] reviewer.py:_answerButtonList(): 3
+[1637132796464] sched.py:answerCard(): 1
+[1637132796489] cards.py:flushSched(): {'data': '', 'did': 1636444188795, 'due': 1637132869, 'factor': 0, 'flags': 0, 'id': 1636356530844, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637132796, 'nid': 1636356518907, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637132796489] sched.py:getCard(): {'data': '', 'did': 1636444188795, 'due': 1637132792, 'factor': 0, 'flags': 0, 'id': 1636356436076, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637132732, 'nid': 1636356423915, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1}
+[1637132799638] reviewer.py:_answerButtonList(): 3
+[1637132802509] sched.py:answerCard(): 2
+[1637132802532] cards.py:flushSched(): {'data': '', 'did': 1636444188795, 'due': 1637133420, 'factor': 0, 'flags': 0, 'id': 1636356436076, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1637132802, 'nid': 1636356423915, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 3, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637132802533] sched.py:getCard(): {'data': '', 'did': 1636444188795, 'due': 1637132804, 'factor': 0, 'flags': 0, 'id': 1636356459483, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637132740, 'nid': 1636356448068, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1}
+[1637132806423] reviewer.py:_answerButtonList(): 3
+[1637132809139] sched.py:answerCard(): 1
+[1637132809163] cards.py:flushSched(): {'data': '', 'did': 1636444188795, 'due': 1637132874, 'factor': 0, 'flags': 0, 'id': 1636356459483, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637132809, 'nid': 1636356448068, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 3, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637132809163] sched.py:getCard(): {'data': '', 'did': 1636444188795, 'due': 1637132809, 'factor': 0, 'flags': 0, 'id': 1636356448061, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637132736, 'nid': 1636356436082, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1}
+[1637132810346] reviewer.py:_answerButtonList(): 3
+[1637132814158] sched.py:answerCard(): 1
+[1637132814181] cards.py:flushSched(): {'data': '', 'did': 1636444188795, 'due': 1637132887, 'factor': 0, 'flags': 0, 'id': 1636356448061, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637132814, 'nid': 1636356436082, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 3, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637132814182] sched.py:getCard(): {'data': '', 'did': 1636444188795, 'due': 1637132813, 'factor': 0, 'flags': 0, 'id': 1636356471469, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637132752, 'nid': 1636356459490, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1}
+[1637132817331] reviewer.py:_answerButtonList(): 3
+[1637132819508] sched.py:answerCard(): 1
+[1637132819532] cards.py:flushSched(): {'data': '', 'did': 1636444188795, 'due': 1637132881, 'factor': 0, 'flags': 0, 'id': 1636356471469, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637132819, 'nid': 1636356459490, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 3, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637132819532] sched.py:getCard(): {'data': '', 'did': 1636444188795, 'due': 1637132829, 'factor': 0, 'flags': 0, 'id': 1636356484133, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637132760, 'nid': 1636356471476, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1}
+[1637132821250] reviewer.py:_answerButtonList(): 3
+[1637132824245] sched.py:answerCard(): 1
+[1637132824273] cards.py:flushSched(): {'data': '', 'did': 1636444188795, 'due': 1637132884, 'factor': 0, 'flags': 0, 'id': 1636356484133, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637132824, 'nid': 1636356471476, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 3, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637132824274] sched.py:getCard(): {'data': '', 'did': 1636444188795, 'due': 1637132839, 'factor': 0, 'flags': 0, 'id': 1636356507477, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637132765, 'nid': 1636356496051, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1}
+[1637132825979] reviewer.py:_answerButtonList(): 3
+[1637132827683] sched.py:answerCard(): 1
+[1637132827707] cards.py:flushSched(): {'data': '', 'did': 1636444188795, 'due': 1637132887, 'factor': 0, 'flags': 0, 'id': 1636356507477, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637132827, 'nid': 1636356496051, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 3, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637132827707] sched.py:getCard(): {'data': '', 'did': 1636444188795, 'due': 1637132843, 'factor': 0, 'flags': 0, 'id': 1636356496044, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637132772, 'nid': 1636356484140, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1}
+[1637132829198] reviewer.py:_answerButtonList(): 3
+[1637132835337] sched.py:answerCard(): 1
+[1637132835361] cards.py:flushSched(): {'data': '', 'did': 1636444188795, 'due': 1637132895, 'factor': 0, 'flags': 0, 'id': 1636356496044, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637132835, 'nid': 1636356484140, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 3, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637132835361] sched.py:getCard(): {'data': '', 'did': 1636444188795, 'due': 1637132844, 'factor': 0, 'flags': 0, 'id': 1636356518900, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637132778, 'nid': 1636356507484, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1}
+[1637132836967] reviewer.py:_answerButtonList(): 3
+[1637132839077] sched.py:answerCard(): 1
+[1637132839102] cards.py:flushSched(): {'data': '', 'did': 1636444188795, 'due': 1637132899, 'factor': 0, 'flags': 0, 'id': 1636356518900, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637132839, 'nid': 1636356507484, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 3, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637132839102] sched.py:getCard(): {'data': '', 'did': 1636444188795, 'due': 1637132851, 'factor': 0, 'flags': 0, 'id': 1636356423908, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637132789, 'nid': 1636356412187, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 3, 'type': 1, 'usn': -1}
+[1637132842441] reviewer.py:_answerButtonList(): 3
+[1637132846308] sched.py:answerCard(): 1
+[1637132846333] cards.py:flushSched(): {'data': '', 'did': 1636444188795, 'due': 1637132906, 'factor': 0, 'flags': 0, 'id': 1636356423908, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637132846, 'nid': 1636356412187, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 4, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637132846334] sched.py:getCard(): {'data': '', 'did': 1636444188795, 'due': 1637132869, 'factor': 0, 'flags': 0, 'id': 1636356530844, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637132796, 'nid': 1636356518907, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1}
+[1637132852344] reviewer.py:_answerButtonList(): 3
+[1637132855354] sched.py:answerCard(): 1
+[1637132855378] cards.py:flushSched(): {'data': '', 'did': 1636444188795, 'due': 1637132915, 'factor': 0, 'flags': 0, 'id': 1636356530844, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637132855, 'nid': 1636356518907, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 3, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637132855378] sched.py:getCard(): {'data': '', 'did': 1636444188795, 'due': 1637132874, 'factor': 0, 'flags': 0, 'id': 1636356459483, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637132809, 'nid': 1636356448068, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 3, 'type': 1, 'usn': -1}
+[1637132860060] reviewer.py:_answerButtonList(): 3
+[1637132862623] sched.py:answerCard(): 1
+[1637132862648] cards.py:flushSched(): {'data': '', 'did': 1636444188795, 'due': 1637132922, 'factor': 0, 'flags': 0, 'id': 1636356459483, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637132862, 'nid': 1636356448068, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 4, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637132862648] sched.py:getCard(): {'data': '', 'did': 1636444188795, 'due': 1637132881, 'factor': 0, 'flags': 0, 'id': 1636356471469, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637132819, 'nid': 1636356459490, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 3, 'type': 1, 'usn': -1}
+[1637132864613] reviewer.py:_answerButtonList(): 3
+[1637132868061] sched.py:answerCard(): 1
+[1637132868086] cards.py:flushSched(): {'data': '', 'did': 1636444188795, 'due': 1637132928, 'factor': 0, 'flags': 0, 'id': 1636356471469, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637132868, 'nid': 1636356459490, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 4, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637132868086] sched.py:getCard(): {'data': '', 'did': 1636444188795, 'due': 1637132884, 'factor': 0, 'flags': 0, 'id': 1636356484133, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637132824, 'nid': 1636356471476, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 3, 'type': 1, 'usn': -1}
+[1637132870830] reviewer.py:_answerButtonList(): 3
+[1637133520336] sched.py:getCard(): {'data': '', 'did': 1636444192308, 'due': 25, 'factor': 0, 'flags': 0, 'id': 1636357167673, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1636444192, 'nid': 1636357153272, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1637133523908] reviewer.py:_answerButtonList(): 3
+[1637133532122] sched.py:answerCard(): 1
+[1637133532145] cards.py:flushSched(): {'data': '', 'did': 1636444192308, 'due': 1637133600, 'factor': 0, 'flags': 0, 'id': 1636357167673, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637133532, 'nid': 1636357153272, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1, 'wasNew': True}
+[1637133532224] sched.py:getCard(): {'data': '', 'did': 1636444192308, 'due': 26, 'factor': 0, 'flags': 0, 'id': 1636357178593, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1636444192, 'nid': 1636357167682, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1637133533824] reviewer.py:_answerButtonList(): 3
+[1637133539017] sched.py:answerCard(): 1
+[1637133539041] cards.py:flushSched(): {'data': '', 'did': 1636444192308, 'due': 1637133609, 'factor': 0, 'flags': 0, 'id': 1636357178593, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637133539, 'nid': 1636357167682, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1, 'wasNew': True}
+[1637133539041] sched.py:getCard(): {'data': '', 'did': 1636444192308, 'due': 27, 'factor': 0, 'flags': 0, 'id': 1636357190978, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1636444192, 'nid': 1636357178600, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1637133540806] reviewer.py:_answerButtonList(): 3
+[1637133549122] sched.py:answerCard(): 1
+[1637133549147] cards.py:flushSched(): {'data': '', 'did': 1636444192308, 'due': 1637133623, 'factor': 0, 'flags': 0, 'id': 1636357190978, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637133549, 'nid': 1636357178600, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1, 'wasNew': True}
+[1637133549147] sched.py:getCard(): {'data': '', 'did': 1636444192308, 'due': 28, 'factor': 0, 'flags': 0, 'id': 1636357203297, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1636444192, 'nid': 1636357190985, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1637133550326] reviewer.py:_answerButtonList(): 3
+[1637133557670] sched.py:answerCard(): 1
+[1637133557695] cards.py:flushSched(): {'data': '', 'did': 1636444192308, 'due': 1637133623, 'factor': 0, 'flags': 0, 'id': 1636357203297, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637133557, 'nid': 1636357190985, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1, 'wasNew': True}
+[1637133557695] sched.py:getCard(): {'data': '', 'did': 1636444192308, 'due': 29, 'factor': 0, 'flags': 0, 'id': 1636357215120, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1636444192, 'nid': 1636357203304, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1637133558719] reviewer.py:_answerButtonList(): 3
+[1637133565052] sched.py:answerCard(): 1
+[1637133565076] cards.py:flushSched(): {'data': '', 'did': 1636444192308, 'due': 1637133638, 'factor': 0, 'flags': 0, 'id': 1636357215120, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637133565, 'nid': 1636357203304, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1, 'wasNew': True}
+[1637133565076] sched.py:getCard(): {'data': '', 'did': 1636444192308, 'due': 30, 'factor': 0, 'flags': 0, 'id': 1636357227176, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1636444192, 'nid': 1636357215126, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1637133566057] reviewer.py:_answerButtonList(): 3
+[1637133572963] sched.py:answerCard(): 1
+[1637133572986] cards.py:flushSched(): {'data': '', 'did': 1636444192308, 'due': 1637133643, 'factor': 0, 'flags': 0, 'id': 1636357227176, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637133572, 'nid': 1636357215126, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1, 'wasNew': True}
+[1637133572987] sched.py:getCard(): {'data': '', 'did': 1636444192308, 'due': 31, 'factor': 0, 'flags': 0, 'id': 1636357238225, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1636444192, 'nid': 1636357227183, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1637133573951] reviewer.py:_answerButtonList(): 3
+[1637133579528] sched.py:answerCard(): 1
+[1637133579560] cards.py:flushSched(): {'data': '', 'did': 1636444192308, 'due': 1637133653, 'factor': 0, 'flags': 0, 'id': 1636357238225, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637133579, 'nid': 1636357227183, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1, 'wasNew': True}
+[1637133579560] sched.py:getCard(): {'data': '', 'did': 1636444192308, 'due': 32, 'factor': 0, 'flags': 0, 'id': 1636357250080, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1636444192, 'nid': 1636357238232, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1637133580826] reviewer.py:_answerButtonList(): 3
+[1637133586572] sched.py:answerCard(): 1
+[1637133586596] cards.py:flushSched(): {'data': '', 'did': 1636444192308, 'due': 1637133647, 'factor': 0, 'flags': 0, 'id': 1636357250080, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637133586, 'nid': 1636357238232, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1, 'wasNew': True}
+[1637133586597] sched.py:getCard(): {'data': '', 'did': 1636444192308, 'due': 33, 'factor': 0, 'flags': 0, 'id': 1636357261865, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1636444192, 'nid': 1636357250087, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1637133587599] reviewer.py:_answerButtonList(): 3
+[1637133598221] sched.py:answerCard(): 1
+[1637133598245] cards.py:flushSched(): {'data': '', 'did': 1636444192308, 'due': 1637133669, 'factor': 0, 'flags': 0, 'id': 1636357261865, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637133598, 'nid': 1636357250087, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1, 'wasNew': True}
+[1637133598246] sched.py:getCard(): {'data': '', 'did': 1636444192308, 'due': 34, 'factor': 0, 'flags': 0, 'id': 1636357272936, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1636444192, 'nid': 1636357261872, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1637133599706] reviewer.py:_answerButtonList(): 3
+[1637133607722] sched.py:answerCard(): 1
+[1637133607746] cards.py:flushSched(): {'data': '', 'did': 1636444192308, 'due': 1637133669, 'factor': 0, 'flags': 0, 'id': 1636357272936, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637133607, 'nid': 1636357261872, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1, 'wasNew': True}
+[1637133607747] sched.py:getCard(): {'data': '', 'did': 1636444192308, 'due': 1637133600, 'factor': 0, 'flags': 0, 'id': 1636357167673, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637133532, 'nid': 1636357153272, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1637133608870] reviewer.py:_answerButtonList(): 3
+[1637133612227] sched.py:answerCard(): 1
+[1637133612659] cards.py:flushSched(): {'data': '', 'did': 1636444192308, 'due': 1637133680, 'factor': 0, 'flags': 0, 'id': 1636357167673, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637133612, 'nid': 1636357153272, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637133612659] sched.py:getCard(): {'data': '', 'did': 1636444192308, 'due': 1637133609, 'factor': 0, 'flags': 0, 'id': 1636357178593, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637133539, 'nid': 1636357167682, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1637133614308] reviewer.py:_answerButtonList(): 3
+[1637133617380] sched.py:answerCard(): 1
+[1637133617418] cards.py:flushSched(): {'data': '', 'did': 1636444192308, 'due': 1637133691, 'factor': 0, 'flags': 0, 'id': 1636357178593, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637133617, 'nid': 1636357167682, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637133617419] sched.py:getCard(): {'data': '', 'did': 1636444192308, 'due': 35, 'factor': 0, 'flags': 0, 'id': 1636357284929, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1636444192, 'nid': 1636357272942, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1637133618888] reviewer.py:_answerButtonList(): 3
+[1637133624879] sched.py:answerCard(): 1
+[1637133624902] cards.py:flushSched(): {'data': '', 'did': 1636444192308, 'due': 1637133694, 'factor': 0, 'flags': 0, 'id': 1636357284929, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637133624, 'nid': 1636357272942, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1, 'wasNew': True}
+[1637133624903] sched.py:getCard(): {'data': '', 'did': 1636444192308, 'due': 1637133623, 'factor': 0, 'flags': 0, 'id': 1636357190978, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637133549, 'nid': 1636357178600, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1637133627977] reviewer.py:_answerButtonList(): 3
+[1637133629572] sched.py:answerCard(): 1
+[1637133629611] cards.py:flushSched(): {'data': '', 'did': 1636444192308, 'due': 1637133697, 'factor': 0, 'flags': 0, 'id': 1636357190978, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637133629, 'nid': 1636357178600, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637133629612] sched.py:getCard(): {'data': '', 'did': 1636444192308, 'due': 1637133623, 'factor': 0, 'flags': 0, 'id': 1636357203297, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637133557, 'nid': 1636357190985, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1637133630718] reviewer.py:_answerButtonList(): 3
+[1637133638013] sched.py:answerCard(): 1
+[1637133638049] cards.py:flushSched(): {'data': '', 'did': 1636444192308, 'due': 1637133702, 'factor': 0, 'flags': 0, 'id': 1636357203297, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637133638, 'nid': 1636357190985, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637133638049] sched.py:getCard(): {'data': '', 'did': 1636444192308, 'due': 1637133638, 'factor': 0, 'flags': 0, 'id': 1636357215120, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637133565, 'nid': 1636357203304, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1637133639672] reviewer.py:_answerButtonList(): 3
+[1637133643088] sched.py:answerCard(): 1
+[1637133643125] cards.py:flushSched(): {'data': '', 'did': 1636444192308, 'due': 1637133716, 'factor': 0, 'flags': 0, 'id': 1636357215120, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637133643, 'nid': 1636357203304, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637133643125] sched.py:getCard(): {'data': '', 'did': 1636444192308, 'due': 1637133643, 'factor': 0, 'flags': 0, 'id': 1636357227176, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637133572, 'nid': 1636357215126, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1637133645065] reviewer.py:_answerButtonList(): 3
+[1637133648271] sched.py:answerCard(): 1
+[1637133648311] cards.py:flushSched(): {'data': '', 'did': 1636444192308, 'due': 1637133720, 'factor': 0, 'flags': 0, 'id': 1636357227176, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637133648, 'nid': 1636357215126, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637133648311] sched.py:getCard(): {'data': '', 'did': 1636444192308, 'due': 1637133647, 'factor': 0, 'flags': 0, 'id': 1636357250080, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637133586, 'nid': 1636357238232, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1637133650355] reviewer.py:_answerButtonList(): 3
+[1637133653736] sched.py:answerCard(): 1
+[1637133653777] cards.py:flushSched(): {'data': '', 'did': 1636444192308, 'due': 1637133722, 'factor': 0, 'flags': 0, 'id': 1636357250080, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637133653, 'nid': 1636357238232, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637133653777] sched.py:getCard(): {'data': '', 'did': 1636444192308, 'due': 1637133653, 'factor': 0, 'flags': 0, 'id': 1636357238225, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637133579, 'nid': 1636357227183, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1637133656952] reviewer.py:_answerButtonList(): 3
+[1637133664372] sched.py:answerCard(): 1
+[1637133664410] cards.py:flushSched(): {'data': '', 'did': 1636444192308, 'due': 1637133727, 'factor': 0, 'flags': 0, 'id': 1636357238225, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637133664, 'nid': 1636357227183, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637133664410] sched.py:getCard(): {'data': '', 'did': 1636444192308, 'due': 36, 'factor': 0, 'flags': 0, 'id': 1636357296448, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1636444192, 'nid': 1636357284935, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1637133665642] reviewer.py:_answerButtonList(): 3
+[1637133669549] sched.py:answerCard(): 1
+[1637133669573] cards.py:flushSched(): {'data': '', 'did': 1636444192308, 'due': 1637133732, 'factor': 0, 'flags': 0, 'id': 1636357296448, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637133669, 'nid': 1636357284935, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1, 'wasNew': True}
+[1637133669573] sched.py:getCard(): {'data': '', 'did': 1636444192308, 'due': 1637133669, 'factor': 0, 'flags': 0, 'id': 1636357261865, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637133598, 'nid': 1636357250087, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1637133670648] reviewer.py:_answerButtonList(): 3
+[1637133675280] sched.py:answerCard(): 1
+[1637133675318] cards.py:flushSched(): {'data': '', 'did': 1636444192308, 'due': 1637133738, 'factor': 0, 'flags': 0, 'id': 1636357261865, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637133675, 'nid': 1636357250087, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637133675318] sched.py:getCard(): {'data': '', 'did': 1636444192308, 'due': 1637133669, 'factor': 0, 'flags': 0, 'id': 1636357272936, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637133607, 'nid': 1636357261872, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1637133677220] reviewer.py:_answerButtonList(): 3
+[1637133678290] sched.py:answerCard(): 1
+[1637133678329] cards.py:flushSched(): {'data': '', 'did': 1636444192308, 'due': 1637133751, 'factor': 0, 'flags': 0, 'id': 1636357272936, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637133678, 'nid': 1636357261872, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637133678329] sched.py:getCard(): {'data': '', 'did': 1636444192308, 'due': 1637133680, 'factor': 0, 'flags': 0, 'id': 1636357167673, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637133612, 'nid': 1636357153272, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1}
+[1637133680836] reviewer.py:_answerButtonList(): 3
+[1637133682776] sched.py:answerCard(): 2
+[1637133682812] cards.py:flushSched(): {'data': '', 'did': 1636444192308, 'due': 1637134298, 'factor': 0, 'flags': 0, 'id': 1636357167673, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1637133682, 'nid': 1636357153272, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 3, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637133682812] sched.py:getCard(): {'data': '', 'did': 1636444192308, 'due': 1637133691, 'factor': 0, 'flags': 0, 'id': 1636357178593, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637133617, 'nid': 1636357167682, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1}
+[1637133684181] reviewer.py:_answerButtonList(): 3
+[1637133685354] sched.py:answerCard(): 2
+[1637133685393] cards.py:flushSched(): {'data': '', 'did': 1636444192308, 'due': 1637134285, 'factor': 0, 'flags': 0, 'id': 1636357178593, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1637133685, 'nid': 1636357167682, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 3, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637133685393] sched.py:getCard(): {'data': '', 'did': 1636444192308, 'due': 1637133694, 'factor': 0, 'flags': 0, 'id': 1636357284929, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637133624, 'nid': 1636357272942, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1637133690236] reviewer.py:_answerButtonList(): 3
+[1637133691936] sched.py:answerCard(): 2
+[1637133691974] cards.py:flushSched(): {'data': '', 'did': 1636444192308, 'due': 1637134291, 'factor': 0, 'flags': 0, 'id': 1636357284929, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1637133691, 'nid': 1636357272942, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637133691974] sched.py:getCard(): {'data': '', 'did': 1636444192308, 'due': 1637133697, 'factor': 0, 'flags': 0, 'id': 1636357190978, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637133629, 'nid': 1636357178600, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1}
+[1637133694097] reviewer.py:_answerButtonList(): 3
+[1637133695768] sched.py:answerCard(): 2
+[1637133695808] cards.py:flushSched(): {'data': '', 'did': 1636444192308, 'due': 1637134295, 'factor': 0, 'flags': 0, 'id': 1636357190978, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1637133695, 'nid': 1636357178600, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 3, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637133695808] sched.py:getCard(): {'data': '', 'did': 1636444192308, 'due': 1637133702, 'factor': 0, 'flags': 0, 'id': 1636357203297, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637133638, 'nid': 1636357190985, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1}
+[1637133698898] reviewer.py:_answerButtonList(): 3
+[1637133702129] sched.py:answerCard(): 1
+[1637133702168] cards.py:flushSched(): {'data': '', 'did': 1636444192308, 'due': 1637133775, 'factor': 0, 'flags': 0, 'id': 1636357203297, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637133702, 'nid': 1636357190985, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 3, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637133702168] sched.py:getCard(): {'data': '', 'did': 1636444192308, 'due': 1637133716, 'factor': 0, 'flags': 0, 'id': 1636357215120, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637133643, 'nid': 1636357203304, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1}
+[1637133704575] reviewer.py:_answerButtonList(): 3
+[1637133707141] sched.py:answerCard(): 1
+[1637133707178] cards.py:flushSched(): {'data': '', 'did': 1636444192308, 'due': 1637133767, 'factor': 0, 'flags': 0, 'id': 1636357215120, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637133707, 'nid': 1636357203304, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 3, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637133707178] sched.py:getCard(): {'data': '', 'did': 1636444192308, 'due': 1637133720, 'factor': 0, 'flags': 0, 'id': 1636357227176, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637133648, 'nid': 1636357215126, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1}
+[1637133710372] reviewer.py:_answerButtonList(): 3
+[1637133712295] sched.py:answerCard(): 2
+[1637133712339] cards.py:flushSched(): {'data': '', 'did': 1636444192308, 'due': 1637134312, 'factor': 0, 'flags': 0, 'id': 1636357227176, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1637133712, 'nid': 1636357215126, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 3, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637133712340] sched.py:getCard(): {'data': '', 'did': 1636444192308, 'due': 1637133722, 'factor': 0, 'flags': 0, 'id': 1636357250080, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637133653, 'nid': 1636357238232, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1}
+[1637133713614] reviewer.py:_answerButtonList(): 3
+[1637133715450] sched.py:answerCard(): 1
+[1637133715490] cards.py:flushSched(): {'data': '', 'did': 1636444192308, 'due': 1637133775, 'factor': 0, 'flags': 0, 'id': 1636357250080, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637133715, 'nid': 1636357238232, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 3, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637133715490] sched.py:getCard(): {'data': '', 'did': 1636444192308, 'due': 1637133727, 'factor': 0, 'flags': 0, 'id': 1636357238225, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637133664, 'nid': 1636357227183, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1}
+[1637133718517] reviewer.py:_answerButtonList(): 3
+[1637133722353] sched.py:answerCard(): 1
+[1637133722392] cards.py:flushSched(): {'data': '', 'did': 1636444192308, 'due': 1637133782, 'factor': 0, 'flags': 0, 'id': 1636357238225, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637133722, 'nid': 1636357227183, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 3, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637133722393] sched.py:getCard(): {'data': '', 'did': 1636444192308, 'due': 1637133732, 'factor': 0, 'flags': 0, 'id': 1636357296448, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637133669, 'nid': 1636357284935, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1637133723420] reviewer.py:_answerButtonList(): 3
+[1637133725646] sched.py:answerCard(): 1
+[1637133725685] cards.py:flushSched(): {'data': '', 'did': 1636444192308, 'due': 1637133785, 'factor': 0, 'flags': 0, 'id': 1636357296448, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637133725, 'nid': 1636357284935, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637133725685] sched.py:getCard(): {'data': '', 'did': 1636444192308, 'due': 1637133738, 'factor': 0, 'flags': 0, 'id': 1636357261865, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637133675, 'nid': 1636357250087, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1}
+[1637133726683] reviewer.py:_answerButtonList(): 3
+[1637133731774] sched.py:answerCard(): 1
+[1637133731815] cards.py:flushSched(): {'data': '', 'did': 1636444192308, 'due': 1637133791, 'factor': 0, 'flags': 0, 'id': 1636357261865, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637133731, 'nid': 1636357250087, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 3, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637133731815] sched.py:getCard(): {'data': '', 'did': 1636444192308, 'due': 1637133751, 'factor': 0, 'flags': 0, 'id': 1636357272936, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637133678, 'nid': 1636357261872, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1}
+[1637133732965] reviewer.py:_answerButtonList(): 3
+[1637133734531] sched.py:answerCard(): 2
+[1637133734573] cards.py:flushSched(): {'data': '', 'did': 1636444192308, 'due': 1637134334, 'factor': 0, 'flags': 0, 'id': 1636357272936, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1637133734, 'nid': 1636357261872, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 3, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637133734573] sched.py:getCard(): {'data': '', 'did': 1636444192308, 'due': 1637133767, 'factor': 0, 'flags': 0, 'id': 1636357215120, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637133707, 'nid': 1636357203304, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 3, 'type': 1, 'usn': -1}
+[1637133737371] reviewer.py:_answerButtonList(): 3
+[1637133740105] sched.py:answerCard(): 1
+[1637133740146] cards.py:flushSched(): {'data': '', 'did': 1636444192308, 'due': 1637133800, 'factor': 0, 'flags': 0, 'id': 1636357215120, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637133740, 'nid': 1636357203304, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 4, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637133740146] sched.py:getCard(): {'data': '', 'did': 1636444192308, 'due': 1637133775, 'factor': 0, 'flags': 0, 'id': 1636357203297, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637133702, 'nid': 1636357190985, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 3, 'type': 1, 'usn': -1}
+[1637133742694] reviewer.py:_answerButtonList(): 3
+[1637133746379] sched.py:answerCard(): 1
+[1637133746417] cards.py:flushSched(): {'data': '', 'did': 1636444192308, 'due': 1637133806, 'factor': 0, 'flags': 0, 'id': 1636357203297, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637133746, 'nid': 1636357190985, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 4, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637133746417] sched.py:getCard(): {'data': '', 'did': 1636444192308, 'due': 1637133775, 'factor': 0, 'flags': 0, 'id': 1636357250080, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637133715, 'nid': 1636357238232, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 3, 'type': 1, 'usn': -1}
+[1637133747821] reviewer.py:_answerButtonList(): 3
+[1637133753868] sched.py:answerCard(): 1
+[1637133753906] cards.py:flushSched(): {'data': '', 'did': 1636444192308, 'due': 1637133813, 'factor': 0, 'flags': 0, 'id': 1636357250080, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637133753, 'nid': 1636357238232, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 4, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637133753907] sched.py:getCard(): {'data': '', 'did': 1636444192308, 'due': 1637133782, 'factor': 0, 'flags': 0, 'id': 1636357238225, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637133722, 'nid': 1636357227183, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 3, 'type': 1, 'usn': -1}
+[1637133757209] reviewer.py:_answerButtonList(): 3
+[1637133761058] sched.py:answerCard(): 1
+[1637133761097] cards.py:flushSched(): {'data': '', 'did': 1636444192308, 'due': 1637133821, 'factor': 0, 'flags': 0, 'id': 1636357238225, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637133761, 'nid': 1636357227183, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 4, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637133761097] sched.py:getCard(): {'data': '', 'did': 1636444192308, 'due': 1637133785, 'factor': 0, 'flags': 0, 'id': 1636357296448, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637133725, 'nid': 1636357284935, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1}
+[1637133762525] reviewer.py:_answerButtonList(): 3
+[1637133912311] sched.py:getCard(): {'data': '', 'did': 1636444197832, 'due': 49, 'factor': 0, 'flags': 0, 'id': 1636438717050, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1636444197, 'nid': 1636438671521, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1637133915511] reviewer.py:_answerButtonList(): 3
+[1637133920450] sched.py:answerCard(): 1
+[1637133920473] cards.py:flushSched(): {'data': '', 'did': 1636444197832, 'due': 1637133981, 'factor': 0, 'flags': 0, 'id': 1636438717050, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637133920, 'nid': 1636438671521, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1, 'wasNew': True}
+[1637133920573] sched.py:getCard(): {'data': '', 'did': 1636444197832, 'due': 50, 'factor': 0, 'flags': 0, 'id': 1636438735186, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1636444197, 'nid': 1636438717083, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1637133921888] reviewer.py:_answerButtonList(): 3
+[1637133928653] sched.py:answerCard(): 1
+[1637133928676] cards.py:flushSched(): {'data': '', 'did': 1636444197832, 'due': 1637133996, 'factor': 0, 'flags': 0, 'id': 1636438735186, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637133928, 'nid': 1636438717083, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1, 'wasNew': True}
+[1637133928677] sched.py:getCard(): {'data': '', 'did': 1636444197832, 'due': 51, 'factor': 0, 'flags': 0, 'id': 1636438753456, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1636444197, 'nid': 1636438735191, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1637133929896] reviewer.py:_answerButtonList(): 3
+[1637133935616] sched.py:answerCard(): 1
+[1637133935639] cards.py:flushSched(): {'data': '', 'did': 1636444197832, 'due': 1637134007, 'factor': 0, 'flags': 0, 'id': 1636438753456, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637133935, 'nid': 1636438735191, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1, 'wasNew': True}
+[1637133935639] sched.py:getCard(): {'data': '', 'did': 1636444197832, 'due': 52, 'factor': 0, 'flags': 0, 'id': 1636438771593, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1636444197, 'nid': 1636438753461, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1637133936747] reviewer.py:_answerButtonList(): 3
+[1637133939904] sched.py:answerCard(): 1
+[1637133939930] cards.py:flushSched(): {'data': '', 'did': 1636444197832, 'due': 1637134000, 'factor': 0, 'flags': 0, 'id': 1636438771593, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637133939, 'nid': 1636438753461, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1, 'wasNew': True}
+[1637133939931] sched.py:getCard(): {'data': '', 'did': 1636444197832, 'due': 53, 'factor': 0, 'flags': 0, 'id': 1636438788736, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1636444197, 'nid': 1636438771598, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1637133941295] reviewer.py:_answerButtonList(): 3
+[1637133943707] sched.py:answerCard(): 1
+[1637133943733] cards.py:flushSched(): {'data': '', 'did': 1636444197832, 'due': 1637134011, 'factor': 0, 'flags': 0, 'id': 1636438788736, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637133943, 'nid': 1636438771598, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1, 'wasNew': True}
+[1637133943733] sched.py:getCard(): {'data': '', 'did': 1636444197832, 'due': 54, 'factor': 0, 'flags': 0, 'id': 1636438807320, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1636444197, 'nid': 1636438788742, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1637133944978] reviewer.py:_answerButtonList(): 3
+[1637133951212] sched.py:answerCard(): 1
+[1637133951236] cards.py:flushSched(): {'data': '', 'did': 1636444197832, 'due': 1637134026, 'factor': 0, 'flags': 0, 'id': 1636438807320, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637133951, 'nid': 1636438788742, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1, 'wasNew': True}
+[1637133951237] sched.py:getCard(): {'data': '', 'did': 1636444197832, 'due': 55, 'factor': 0, 'flags': 0, 'id': 1636438825545, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1636444197, 'nid': 1636438807326, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1637133954331] reviewer.py:_answerButtonList(): 3
+[1637133961365] sched.py:answerCard(): 1
+[1637133961388] cards.py:flushSched(): {'data': '', 'did': 1636444197832, 'due': 1637134033, 'factor': 0, 'flags': 0, 'id': 1636438825545, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637133961, 'nid': 1636438807326, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1, 'wasNew': True}
+[1637133961388] sched.py:getCard(): {'data': '', 'did': 1636444197832, 'due': 56, 'factor': 0, 'flags': 0, 'id': 1636438843824, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1636444197, 'nid': 1636438825551, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1637133963022] reviewer.py:_answerButtonList(): 3
+[1637133969610] sched.py:answerCard(): 1
+[1637133969633] cards.py:flushSched(): {'data': '', 'did': 1636444197832, 'due': 1637134032, 'factor': 0, 'flags': 0, 'id': 1636438843824, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637133969, 'nid': 1636438825551, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1, 'wasNew': True}
+[1637133969634] sched.py:getCard(): {'data': '', 'did': 1636444197832, 'due': 57, 'factor': 0, 'flags': 0, 'id': 1636438862193, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1636444197, 'nid': 1636438843830, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1637133971081] reviewer.py:_answerButtonList(): 3
+[1637133974498] sched.py:answerCard(): 1
+[1637133974522] cards.py:flushSched(): {'data': '', 'did': 1636444197832, 'due': 1637134037, 'factor': 0, 'flags': 0, 'id': 1636438862193, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637133974, 'nid': 1636438843830, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1, 'wasNew': True}
+[1637133974523] sched.py:getCard(): {'data': '', 'did': 1636444197832, 'due': 58, 'factor': 0, 'flags': 0, 'id': 1636438881400, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1636444197, 'nid': 1636438862198, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1637133976341] reviewer.py:_answerButtonList(): 3
+[1637133983939] sched.py:answerCard(): 1
+[1637133983962] cards.py:flushSched(): {'data': '', 'did': 1636444197832, 'due': 1637134044, 'factor': 0, 'flags': 0, 'id': 1636438881400, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637133983, 'nid': 1636438862198, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1, 'wasNew': True}
+[1637133983962] sched.py:getCard(): {'data': '', 'did': 1636444197832, 'due': 1637133981, 'factor': 0, 'flags': 0, 'id': 1636438717050, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637133920, 'nid': 1636438671521, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1637133986604] reviewer.py:_answerButtonList(): 3
+[1637133987922] sched.py:answerCard(): 1
+[1637133988250] cards.py:flushSched(): {'data': '', 'did': 1636444197832, 'due': 1637134060, 'factor': 0, 'flags': 0, 'id': 1636438717050, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637133988, 'nid': 1636438671521, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637133988250] sched.py:getCard(): {'data': '', 'did': 1636444197832, 'due': 59, 'factor': 0, 'flags': 0, 'id': 1636438898752, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1636444197, 'nid': 1636438881405, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1637133990311] reviewer.py:_answerButtonList(): 3
+[1637133996381] sched.py:answerCard(): 1
+[1637133996406] cards.py:flushSched(): {'data': '', 'did': 1636444197832, 'due': 1637134068, 'factor': 0, 'flags': 0, 'id': 1636438898752, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637133996, 'nid': 1636438881405, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1, 'wasNew': True}
+[1637133996406] sched.py:getCard(): {'data': '', 'did': 1636444197832, 'due': 1637133996, 'factor': 0, 'flags': 0, 'id': 1636438735186, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637133928, 'nid': 1636438717083, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1637133999011] reviewer.py:_answerButtonList(): 3
+[1637134000118] sched.py:answerCard(): 1
+[1637134000157] cards.py:flushSched(): {'data': '', 'did': 1636444197832, 'due': 1637134072, 'factor': 0, 'flags': 0, 'id': 1636438735186, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637134000, 'nid': 1636438717083, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637134000157] sched.py:getCard(): {'data': '', 'did': 1636444197832, 'due': 1637134000, 'factor': 0, 'flags': 0, 'id': 1636438771593, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637133939, 'nid': 1636438753461, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1637134004662] reviewer.py:_answerButtonList(): 3
+[1637134009346] sched.py:answerCard(): 1
+[1637134009388] cards.py:flushSched(): {'data': '', 'did': 1636444197832, 'due': 1637134079, 'factor': 0, 'flags': 0, 'id': 1636438771593, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637134009, 'nid': 1636438753461, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637134009388] sched.py:getCard(): {'data': '', 'did': 1636444197832, 'due': 1637134007, 'factor': 0, 'flags': 0, 'id': 1636438753456, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637133935, 'nid': 1636438735191, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1637134012713] reviewer.py:_answerButtonList(): 3
+[1637134018228] sched.py:answerCard(): 1
+[1637134018268] cards.py:flushSched(): {'data': '', 'did': 1636444197832, 'due': 1637134087, 'factor': 0, 'flags': 0, 'id': 1636438753456, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637134018, 'nid': 1636438735191, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637134018268] sched.py:getCard(): {'data': '', 'did': 1636444197832, 'due': 1637134011, 'factor': 0, 'flags': 0, 'id': 1636438788736, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637133943, 'nid': 1636438771598, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1637134020087] reviewer.py:_answerButtonList(): 3
+[1637134021530] sched.py:answerCard(): 1
+[1637134021570] cards.py:flushSched(): {'data': '', 'did': 1636444197832, 'due': 1637134085, 'factor': 0, 'flags': 0, 'id': 1636438788736, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637134021, 'nid': 1636438771598, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637134021571] sched.py:getCard(): {'data': '', 'did': 1636444197832, 'due': 60, 'factor': 0, 'flags': 0, 'id': 1636438917945, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1636444197, 'nid': 1636438898758, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1637134023282] reviewer.py:_answerButtonList(): 3
+[1637134032746] sched.py:answerCard(): 1
+[1637134032769] cards.py:flushSched(): {'data': '', 'did': 1636444197832, 'due': 1637134107, 'factor': 0, 'flags': 0, 'id': 1636438917945, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637134032, 'nid': 1636438898758, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1, 'wasNew': True}
+[1637134032769] sched.py:getCard(): {'data': '', 'did': 1636444197832, 'due': 1637134026, 'factor': 0, 'flags': 0, 'id': 1636438807320, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637133951, 'nid': 1636438788742, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1637134034769] reviewer.py:_answerButtonList(): 3
+[1637134040119] sched.py:answerCard(): 1
+[1637134040164] cards.py:flushSched(): {'data': '', 'did': 1636444197832, 'due': 1637134112, 'factor': 0, 'flags': 0, 'id': 1636438807320, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637134040, 'nid': 1636438788742, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637134040164] sched.py:getCard(): {'data': '', 'did': 1636444197832, 'due': 1637134032, 'factor': 0, 'flags': 0, 'id': 1636438843824, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637133969, 'nid': 1636438825551, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1637134041848] reviewer.py:_answerButtonList(): 3
+[1637134044288] sched.py:answerCard(): 1
+[1637134044331] cards.py:flushSched(): {'data': '', 'did': 1636444197832, 'due': 1637134111, 'factor': 0, 'flags': 0, 'id': 1636438843824, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637134044, 'nid': 1636438825551, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637134044331] sched.py:getCard(): {'data': '', 'did': 1636444197832, 'due': 1637134033, 'factor': 0, 'flags': 0, 'id': 1636438825545, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637133961, 'nid': 1636438807326, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1637134047874] reviewer.py:_answerButtonList(): 3
+[1637134050852] sched.py:answerCard(): 1
+[1637134050894] cards.py:flushSched(): {'data': '', 'did': 1636444197832, 'due': 1637134116, 'factor': 0, 'flags': 0, 'id': 1636438825545, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637134050, 'nid': 1636438807326, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637134050894] sched.py:getCard(): {'data': '', 'did': 1636444197832, 'due': 1637134037, 'factor': 0, 'flags': 0, 'id': 1636438862193, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637133974, 'nid': 1636438843830, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1637134054818] reviewer.py:_answerButtonList(): 3
+[1637134056849] sched.py:answerCard(): 1
+[1637134056893] cards.py:flushSched(): {'data': '', 'did': 1636444197832, 'due': 1637134122, 'factor': 0, 'flags': 0, 'id': 1636438862193, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637134056, 'nid': 1636438843830, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637134056893] sched.py:getCard(): {'data': '', 'did': 1636444197832, 'due': 1637134044, 'factor': 0, 'flags': 0, 'id': 1636438881400, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637133983, 'nid': 1636438862198, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1637134060707] reviewer.py:_answerButtonList(): 3
+[1637134064087] sched.py:answerCard(): 1
+[1637134064143] cards.py:flushSched(): {'data': '', 'did': 1636444197832, 'due': 1637134134, 'factor': 0, 'flags': 0, 'id': 1636438881400, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637134064, 'nid': 1636438862198, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637134064143] sched.py:getCard(): {'data': '', 'did': 1636444197832, 'due': 1637134060, 'factor': 0, 'flags': 0, 'id': 1636438717050, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637133988, 'nid': 1636438671521, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1}
+[1637134066809] reviewer.py:_answerButtonList(): 3
+[1637134067833] sched.py:answerCard(): 2
+[1637134067873] cards.py:flushSched(): {'data': '', 'did': 1636444197832, 'due': 1637134801, 'factor': 0, 'flags': 0, 'id': 1636438717050, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1637134067, 'nid': 1636438671521, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 3, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637134067874] sched.py:getCard(): {'data': '', 'did': 1636444197832, 'due': 1637134068, 'factor': 0, 'flags': 0, 'id': 1636438898752, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637133996, 'nid': 1636438881405, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1637134071925] reviewer.py:_answerButtonList(): 3
+[1637134074192] sched.py:answerCard(): 1
+[1637134074235] cards.py:flushSched(): {'data': '', 'did': 1636444197832, 'due': 1637134135, 'factor': 0, 'flags': 0, 'id': 1636438898752, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637134074, 'nid': 1636438881405, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637134074235] sched.py:getCard(): {'data': '', 'did': 1636444197832, 'due': 1637134072, 'factor': 0, 'flags': 0, 'id': 1636438735186, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637134000, 'nid': 1636438717083, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1}
+[1637134075666] reviewer.py:_answerButtonList(): 3
+[1637134077949] sched.py:answerCard(): 2
+[1637134078001] cards.py:flushSched(): {'data': '', 'did': 1636444197832, 'due': 1637134745, 'factor': 0, 'flags': 0, 'id': 1636438735186, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1637134078, 'nid': 1636438717083, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 3, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637134078001] sched.py:getCard(): {'data': '', 'did': 1636444197832, 'due': 1637134079, 'factor': 0, 'flags': 0, 'id': 1636438771593, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637134009, 'nid': 1636438753461, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1}
+[1637134081293] reviewer.py:_answerButtonList(): 3
+[1637134086329] sched.py:answerCard(): 1
+[1637134086372] cards.py:flushSched(): {'data': '', 'did': 1636444197832, 'due': 1637134156, 'factor': 0, 'flags': 0, 'id': 1636438771593, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637134086, 'nid': 1636438753461, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 3, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637134086373] sched.py:getCard(): {'data': '', 'did': 1636444197832, 'due': 1637134085, 'factor': 0, 'flags': 0, 'id': 1636438788736, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637134021, 'nid': 1636438771598, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1}
+[1637134087606] reviewer.py:_answerButtonList(): 3
+[1637134091087] sched.py:answerCard(): 2
+[1637134091133] cards.py:flushSched(): {'data': '', 'did': 1636444197832, 'due': 1637134716, 'factor': 0, 'flags': 0, 'id': 1636438788736, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1637134091, 'nid': 1636438771598, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 3, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637134091133] sched.py:getCard(): {'data': '', 'did': 1636444197832, 'due': 1637134087, 'factor': 0, 'flags': 0, 'id': 1636438753456, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637134018, 'nid': 1636438735191, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1}
+[1637134092856] reviewer.py:_answerButtonList(): 3
+[1637134098122] sched.py:answerCard(): 2
+[1637134098145] cards.py:flushSched(): {'data': '', 'did': 1636444197832, 'due': 1637134706, 'factor': 0, 'flags': 0, 'id': 1636438753456, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1637134098, 'nid': 1636438735191, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 3, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637134098145] sched.py:getCard(): {'data': '', 'did': 1636444197832, 'due': 1637134107, 'factor': 0, 'flags': 0, 'id': 1636438917945, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637134032, 'nid': 1636438898758, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1637134101652] reviewer.py:_answerButtonList(): 3
+[1637134103570] sched.py:answerCard(): 2
+[1637134103594] cards.py:flushSched(): {'data': '', 'did': 1636444197832, 'due': 1637134703, 'factor': 0, 'flags': 0, 'id': 1636438917945, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1637134103, 'nid': 1636438898758, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637134103594] sched.py:getCard(): {'data': '', 'did': 1636444197832, 'due': 1637134111, 'factor': 0, 'flags': 0, 'id': 1636438843824, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637134044, 'nid': 1636438825551, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1}
+[1637134104889] reviewer.py:_answerButtonList(): 3
+[1637134107885] sched.py:answerCard(): 2
+[1637134107910] cards.py:flushSched(): {'data': '', 'did': 1636444197832, 'due': 1637134707, 'factor': 0, 'flags': 0, 'id': 1636438843824, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1637134107, 'nid': 1636438825551, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 3, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637134107910] sched.py:getCard(): {'data': '', 'did': 1636444197832, 'due': 1637134112, 'factor': 0, 'flags': 0, 'id': 1636438807320, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637134040, 'nid': 1636438788742, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1}
+[1637134110789] reviewer.py:_answerButtonList(): 3
+[1637134113655] sched.py:answerCard(): 2
+[1637134113680] cards.py:flushSched(): {'data': '', 'did': 1636444197832, 'due': 1637134845, 'factor': 0, 'flags': 0, 'id': 1636438807320, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1637134113, 'nid': 1636438788742, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 3, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637134113680] sched.py:getCard(): {'data': '', 'did': 1636444197832, 'due': 1637134116, 'factor': 0, 'flags': 0, 'id': 1636438825545, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637134050, 'nid': 1636438807326, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1}
+[1637134116756] reviewer.py:_answerButtonList(): 3
+[1637134122074] sched.py:answerCard(): 1
+[1637134122100] cards.py:flushSched(): {'data': '', 'did': 1636444197832, 'due': 1637134187, 'factor': 0, 'flags': 0, 'id': 1636438825545, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637134122, 'nid': 1636438807326, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 3, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637134122100] sched.py:getCard(): {'data': '', 'did': 1636444197832, 'due': 1637134122, 'factor': 0, 'flags': 0, 'id': 1636438862193, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637134056, 'nid': 1636438843830, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1}
+[1637134124413] reviewer.py:_answerButtonList(): 3
+[1637134128119] sched.py:answerCard(): 2
+[1637134128144] cards.py:flushSched(): {'data': '', 'did': 1636444197832, 'due': 1637134734, 'factor': 0, 'flags': 0, 'id': 1636438862193, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1637134128, 'nid': 1636438843830, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 3, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637134128145] sched.py:getCard(): {'data': '', 'did': 1636444197832, 'due': 1637134134, 'factor': 0, 'flags': 0, 'id': 1636438881400, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637134064, 'nid': 1636438862198, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1}
+[1637134130802] reviewer.py:_answerButtonList(): 3
+[1637134134142] sched.py:answerCard(): 2
+[1637134134168] cards.py:flushSched(): {'data': '', 'did': 1636444197832, 'due': 1637134841, 'factor': 0, 'flags': 0, 'id': 1636438881400, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1637134134, 'nid': 1636438862198, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 3, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637134134168] sched.py:getCard(): {'data': '', 'did': 1636444197832, 'due': 1637134135, 'factor': 0, 'flags': 0, 'id': 1636438898752, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637134074, 'nid': 1636438881405, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1}
+[1637134139318] reviewer.py:_answerButtonList(): 3
+[1637134142204] sched.py:answerCard(): 1
+[1637134142230] cards.py:flushSched(): {'data': '', 'did': 1636444197832, 'due': 1637134214, 'factor': 0, 'flags': 0, 'id': 1636438898752, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637134142, 'nid': 1636438881405, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 3, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637134142230] sched.py:getCard(): {'data': '', 'did': 1636444197832, 'due': 1637134156, 'factor': 0, 'flags': 0, 'id': 1636438771593, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637134086, 'nid': 1636438753461, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 3, 'type': 1, 'usn': -1}
+[1637134146406] reviewer.py:_answerButtonList(): 3
+[1637134149919] sched.py:answerCard(): 2
+[1637134149944] cards.py:flushSched(): {'data': '', 'did': 1636444197832, 'due': 1637134749, 'factor': 0, 'flags': 0, 'id': 1636438771593, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1637134149, 'nid': 1636438753461, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 4, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637134149944] sched.py:getCard(): {'data': '', 'did': 1636444197832, 'due': 1637134187, 'factor': 0, 'flags': 0, 'id': 1636438825545, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637134122, 'nid': 1636438807326, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 3, 'type': 1, 'usn': -1}
+[1637134152616] reviewer.py:_answerButtonList(): 3
+[1637134155598] sched.py:answerCard(): 2
+[1637134155626] cards.py:flushSched(): {'data': '', 'did': 1636444197832, 'due': 1637134755, 'factor': 0, 'flags': 0, 'id': 1636438825545, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1637134155, 'nid': 1636438807326, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 4, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637134155626] sched.py:getCard(): {'data': '', 'did': 1636444197832, 'due': 1637134214, 'factor': 0, 'flags': 0, 'id': 1636438898752, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637134142, 'nid': 1636438881405, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 3, 'type': 1, 'usn': -1}
+[1637134353391] sched.py:getCard(): {'data': '', 'did': 1636444185812, 'due': 13, 'factor': 0, 'flags': 0, 'id': 1636356569483, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1636444185, 'nid': 1636356566482, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1637134357197] reviewer.py:_answerButtonList(): 3
+[1637134366768] sched.py:answerCard(): 1
+[1637134366771] cards.py:flushSched(): {'data': '', 'did': 1636444185812, 'due': 1637134433, 'factor': 0, 'flags': 0, 'id': 1636356569483, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637134366, 'nid': 1636356566482, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1, 'wasNew': True}
+[1637134366884] sched.py:getCard(): {'data': '', 'did': 1636444185812, 'due': 14, 'factor': 0, 'flags': 0, 'id': 1636356581532, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1636444185, 'nid': 1636356569491, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1637134369182] reviewer.py:_answerButtonList(): 3
+[1637134373523] sched.py:answerCard(): 1
+[1637134373527] cards.py:flushSched(): {'data': '', 'did': 1636444185812, 'due': 1637134441, 'factor': 0, 'flags': 0, 'id': 1636356581532, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637134373, 'nid': 1636356569491, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1, 'wasNew': True}
+[1637134373528] sched.py:getCard(): {'data': '', 'did': 1636444185812, 'due': 15, 'factor': 0, 'flags': 0, 'id': 1636356593364, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1636444185, 'nid': 1636356581538, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1637134374680] reviewer.py:_answerButtonList(): 3
+[1637134378321] sched.py:answerCard(): 1
+[1637134378324] cards.py:flushSched(): {'data': '', 'did': 1636444185812, 'due': 1637134442, 'factor': 0, 'flags': 0, 'id': 1636356593364, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637134378, 'nid': 1636356581538, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1, 'wasNew': True}
+[1637134378324] sched.py:getCard(): {'data': '', 'did': 1636444185812, 'due': 16, 'factor': 0, 'flags': 0, 'id': 1636356607925, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1636444185, 'nid': 1636356593371, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1637134379486] reviewer.py:_answerButtonList(): 3
+[1637134383348] sched.py:answerCard(): 1
+[1637134383352] cards.py:flushSched(): {'data': '', 'did': 1636444185812, 'due': 1637134450, 'factor': 0, 'flags': 0, 'id': 1636356607925, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637134383, 'nid': 1636356593371, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1, 'wasNew': True}
+[1637134383352] sched.py:getCard(): {'data': '', 'did': 1636444185812, 'due': 17, 'factor': 0, 'flags': 0, 'id': 1636356620939, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1636444185, 'nid': 1636356607932, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1637134384301] reviewer.py:_answerButtonList(): 3
+[1637134389014] sched.py:answerCard(): 1
+[1637134389017] cards.py:flushSched(): {'data': '', 'did': 1636444185812, 'due': 1637134457, 'factor': 0, 'flags': 0, 'id': 1636356620939, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637134389, 'nid': 1636356607932, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1, 'wasNew': True}
+[1637134389018] sched.py:getCard(): {'data': '', 'did': 1636444185812, 'due': 18, 'factor': 0, 'flags': 0, 'id': 1636356633068, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1636444185, 'nid': 1636356620946, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1637134390249] reviewer.py:_answerButtonList(): 3
+[1637134396856] sched.py:answerCard(): 1
+[1637134396859] cards.py:flushSched(): {'data': '', 'did': 1636444185812, 'due': 1637134470, 'factor': 0, 'flags': 0, 'id': 1636356633068, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637134396, 'nid': 1636356620946, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1, 'wasNew': True}
+[1637134396859] sched.py:getCard(): {'data': '', 'did': 1636444185812, 'due': 19, 'factor': 0, 'flags': 0, 'id': 1636356644907, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1636444185, 'nid': 1636356633074, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1637134397804] reviewer.py:_answerButtonList(): 3
+[1637134403336] sched.py:answerCard(): 1
+[1637134403339] cards.py:flushSched(): {'data': '', 'did': 1636444185812, 'due': 1637134473, 'factor': 0, 'flags': 0, 'id': 1636356644907, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637134403, 'nid': 1636356633074, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1, 'wasNew': True}
+[1637134403339] sched.py:getCard(): {'data': '', 'did': 1636444185812, 'due': 20, 'factor': 0, 'flags': 0, 'id': 1636356656548, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1636444185, 'nid': 1636356644914, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1637134404319] reviewer.py:_answerButtonList(): 3
+[1637134410780] sched.py:answerCard(): 1
+[1637134410783] cards.py:flushSched(): {'data': '', 'did': 1636444185812, 'due': 1637134482, 'factor': 0, 'flags': 0, 'id': 1636356656548, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637134410, 'nid': 1636356644914, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1, 'wasNew': True}
+[1637134410784] sched.py:getCard(): {'data': '', 'did': 1636444185812, 'due': 21, 'factor': 0, 'flags': 0, 'id': 1636356669252, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1636444185, 'nid': 1636356656555, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1637134411650] reviewer.py:_answerButtonList(): 3
+[1637134414864] sched.py:answerCard(): 1
+[1637134414868] cards.py:flushSched(): {'data': '', 'did': 1636444185812, 'due': 1637134478, 'factor': 0, 'flags': 0, 'id': 1636356669252, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637134414, 'nid': 1636356656555, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1, 'wasNew': True}
+[1637134414868] sched.py:getCard(): {'data': '', 'did': 1636444185812, 'due': 22, 'factor': 0, 'flags': 0, 'id': 1636356680372, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1636444185, 'nid': 1636356669259, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1637134415782] reviewer.py:_answerButtonList(): 3
+[1637134421534] sched.py:answerCard(): 1
+[1637134421537] cards.py:flushSched(): {'data': '', 'did': 1636444185812, 'due': 1637134483, 'factor': 0, 'flags': 0, 'id': 1636356680372, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637134421, 'nid': 1636356669259, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1, 'wasNew': True}
+[1637134421538] sched.py:getCard(): {'data': '', 'did': 1636444185812, 'due': 23, 'factor': 0, 'flags': 0, 'id': 1636356691884, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1636444185, 'nid': 1636356680380, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1637134422546] reviewer.py:_answerButtonList(): 3
+[1637134427836] sched.py:answerCard(): 1
+[1637134427839] cards.py:flushSched(): {'data': '', 'did': 1636444185812, 'due': 1637134502, 'factor': 0, 'flags': 0, 'id': 1636356691884, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637134427, 'nid': 1636356680380, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1, 'wasNew': True}
+[1637134427839] sched.py:getCard(): {'data': '', 'did': 1636444185812, 'due': 24, 'factor': 0, 'flags': 0, 'id': 1636356703651, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1636444185, 'nid': 1636356691891, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1637134428944] reviewer.py:_answerButtonList(): 3
+[1637134433886] sched.py:answerCard(): 1
+[1637134433890] cards.py:flushSched(): {'data': '', 'did': 1636444185812, 'due': 1637134502, 'factor': 0, 'flags': 0, 'id': 1636356703651, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637134433, 'nid': 1636356691891, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1, 'wasNew': True}
+[1637134433890] sched.py:getCard(): {'data': '', 'did': 1636444185812, 'due': 1637134433, 'factor': 0, 'flags': 0, 'id': 1636356569483, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637134366, 'nid': 1636356566482, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1637134436603] reviewer.py:_answerButtonList(): 3
+[1637134439449] sched.py:answerCard(): 1
+[1637134439749] cards.py:flushSched(): {'data': '', 'did': 1636444185812, 'due': 1637134500, 'factor': 0, 'flags': 0, 'id': 1636356569483, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637134439, 'nid': 1636356566482, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637134439750] sched.py:getCard(): {'data': '', 'did': 1636444185812, 'due': 1637134441, 'factor': 0, 'flags': 0, 'id': 1636356581532, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637134373, 'nid': 1636356569491, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1637134443399] reviewer.py:_answerButtonList(): 3
+[1637134448083] sched.py:answerCard(): 1
+[1637134448108] cards.py:flushSched(): {'data': '', 'did': 1636444185812, 'due': 1637134508, 'factor': 0, 'flags': 0, 'id': 1636356581532, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637134448, 'nid': 1636356569491, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637134448108] sched.py:getCard(): {'data': '', 'did': 1636444185812, 'due': 1637134442, 'factor': 0, 'flags': 0, 'id': 1636356593364, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637134378, 'nid': 1636356581538, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1637134449407] reviewer.py:_answerButtonList(): 3
+[1637134451227] sched.py:answerCard(): 1
+[1637134451252] cards.py:flushSched(): {'data': '', 'did': 1636444185812, 'due': 1637134525, 'factor': 0, 'flags': 0, 'id': 1636356593364, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637134451, 'nid': 1636356581538, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637134451252] sched.py:getCard(): {'data': '', 'did': 1636444185812, 'due': 1637134450, 'factor': 0, 'flags': 0, 'id': 1636356607925, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637134383, 'nid': 1636356593371, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1637134452102] reviewer.py:_answerButtonList(): 3
+[1637134453396] sched.py:answerCard(): 1
+[1637134453422] cards.py:flushSched(): {'data': '', 'did': 1636444185812, 'due': 1637134523, 'factor': 0, 'flags': 0, 'id': 1636356607925, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637134453, 'nid': 1636356593371, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637134453422] sched.py:getCard(): {'data': '', 'did': 1636444185812, 'due': 1637134457, 'factor': 0, 'flags': 0, 'id': 1636356620939, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637134389, 'nid': 1636356607932, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1637134457204] reviewer.py:_answerButtonList(): 3
+[1637134458888] sched.py:answerCard(): 1
+[1637134458914] cards.py:flushSched(): {'data': '', 'did': 1636444185812, 'due': 1637134524, 'factor': 0, 'flags': 0, 'id': 1636356620939, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637134458, 'nid': 1636356607932, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637134458914] sched.py:getCard(): {'data': '', 'did': 1636444185812, 'due': 1637134470, 'factor': 0, 'flags': 0, 'id': 1636356633068, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637134396, 'nid': 1636356620946, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1637134461743] reviewer.py:_answerButtonList(): 3
+[1637134465343] sched.py:answerCard(): 1
+[1637134465368] cards.py:flushSched(): {'data': '', 'did': 1636444185812, 'due': 1637134525, 'factor': 0, 'flags': 0, 'id': 1636356633068, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637134465, 'nid': 1636356620946, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637134465368] sched.py:getCard(): {'data': '', 'did': 1636444185812, 'due': 1637134473, 'factor': 0, 'flags': 0, 'id': 1636356644907, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637134403, 'nid': 1636356633074, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1637134467109] reviewer.py:_answerButtonList(): 3
+[1637134468633] sched.py:answerCard(): 1
+[1637134468663] cards.py:flushSched(): {'data': '', 'did': 1636444185812, 'due': 1637134528, 'factor': 0, 'flags': 0, 'id': 1636356644907, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637134468, 'nid': 1636356633074, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637134468663] sched.py:getCard(): {'data': '', 'did': 1636444185812, 'due': 1637134478, 'factor': 0, 'flags': 0, 'id': 1636356669252, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637134414, 'nid': 1636356656555, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1637134470346] reviewer.py:_answerButtonList(): 3
+[1637134471223] sched.py:answerCard(): 1
+[1637134471249] cards.py:flushSched(): {'data': '', 'did': 1636444185812, 'due': 1637134531, 'factor': 0, 'flags': 0, 'id': 1636356669252, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637134471, 'nid': 1636356656555, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637134471250] sched.py:getCard(): {'data': '', 'did': 1636444185812, 'due': 1637134482, 'factor': 0, 'flags': 0, 'id': 1636356656548, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637134410, 'nid': 1636356644914, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1637134475711] reviewer.py:_answerButtonList(): 3
+[1637134479573] sched.py:answerCard(): 1
+[1637134479600] cards.py:flushSched(): {'data': '', 'did': 1636444185812, 'due': 1637134539, 'factor': 0, 'flags': 0, 'id': 1636356656548, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637134479, 'nid': 1636356644914, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637134479600] sched.py:getCard(): {'data': '', 'did': 1636444185812, 'due': 1637134483, 'factor': 0, 'flags': 0, 'id': 1636356680372, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637134421, 'nid': 1636356669259, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1637134482877] reviewer.py:_answerButtonList(): 3
+[1637134484550] sched.py:answerCard(): 1
+[1637134484577] cards.py:flushSched(): {'data': '', 'did': 1636444185812, 'due': 1637134554, 'factor': 0, 'flags': 0, 'id': 1636356680372, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637134484, 'nid': 1636356669259, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637134484578] sched.py:getCard(): {'data': '', 'did': 1636444185812, 'due': 1637134500, 'factor': 0, 'flags': 0, 'id': 1636356569483, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637134439, 'nid': 1636356566482, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1}
+[1637134488920] reviewer.py:_answerButtonList(): 3
+[1637134490166] sched.py:answerCard(): 1
+[1637134490193] cards.py:flushSched(): {'data': '', 'did': 1636444185812, 'due': 1637134550, 'factor': 0, 'flags': 0, 'id': 1636356569483, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637134490, 'nid': 1636356566482, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 3, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637134490193] sched.py:getCard(): {'data': '', 'did': 1636444185812, 'due': 1637134502, 'factor': 0, 'flags': 0, 'id': 1636356691884, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637134427, 'nid': 1636356680380, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1637134495224] reviewer.py:_answerButtonList(): 3
+[1637134501417] sched.py:answerCard(): 1
+[1637134501449] cards.py:flushSched(): {'data': '', 'did': 1636444185812, 'due': 1637134561, 'factor': 0, 'flags': 0, 'id': 1636356691884, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637134501, 'nid': 1636356680380, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637134501449] sched.py:getCard(): {'data': '', 'did': 1636444185812, 'due': 1637134502, 'factor': 0, 'flags': 0, 'id': 1636356703651, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637134433, 'nid': 1636356691891, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1637134504751] reviewer.py:_answerButtonList(): 3
+[1637134512885] sched.py:answerCard(): 1
+[1637134512914] cards.py:flushSched(): {'data': '', 'did': 1636444185812, 'due': 1637134573, 'factor': 0, 'flags': 0, 'id': 1636356703651, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637134512, 'nid': 1636356691891, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637134512914] sched.py:getCard(): {'data': '', 'did': 1636444185812, 'due': 1637134508, 'factor': 0, 'flags': 0, 'id': 1636356581532, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637134448, 'nid': 1636356569491, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1}
+[1637134515704] reviewer.py:_answerButtonList(): 3
+[1637134516759] sched.py:answerCard(): 1
+[1637134516792] cards.py:flushSched(): {'data': '', 'did': 1636444185812, 'due': 1637134580, 'factor': 0, 'flags': 0, 'id': 1636356581532, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637134516, 'nid': 1636356569491, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 3, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637134516793] sched.py:getCard(): {'data': '', 'did': 1636444185812, 'due': 1637134523, 'factor': 0, 'flags': 0, 'id': 1636356607925, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637134453, 'nid': 1636356593371, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1}
+[1637134518330] reviewer.py:_answerButtonList(): 3
+[1637134520098] sched.py:answerCard(): 2
+[1637134520132] cards.py:flushSched(): {'data': '', 'did': 1636444185812, 'due': 1637135120, 'factor': 0, 'flags': 0, 'id': 1636356607925, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1637134520, 'nid': 1636356593371, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 3, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637134520132] sched.py:getCard(): {'data': '', 'did': 1636444185812, 'due': 1637134524, 'factor': 0, 'flags': 0, 'id': 1636356620939, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637134458, 'nid': 1636356607932, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1}
+[1637134521938] reviewer.py:_answerButtonList(): 3
+[1637134526063] sched.py:answerCard(): 1
+[1637134526092] cards.py:flushSched(): {'data': '', 'did': 1636444185812, 'due': 1637134589, 'factor': 0, 'flags': 0, 'id': 1636356620939, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637134526, 'nid': 1636356607932, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 3, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637134526093] sched.py:getCard(): {'data': '', 'did': 1636444185812, 'due': 1637134525, 'factor': 0, 'flags': 0, 'id': 1636356593364, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637134451, 'nid': 1636356581538, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1}
+[1637134528318] reviewer.py:_answerButtonList(): 3
+[1637134529890] sched.py:answerCard(): 1
+[1637134529919] cards.py:flushSched(): {'data': '', 'did': 1636444185812, 'due': 1637134594, 'factor': 0, 'flags': 0, 'id': 1636356593364, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637134529, 'nid': 1636356581538, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 3, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637134529920] sched.py:getCard(): {'data': '', 'did': 1636444185812, 'due': 1637134525, 'factor': 0, 'flags': 0, 'id': 1636356633068, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637134465, 'nid': 1636356620946, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1}
+[1637134533773] reviewer.py:_answerButtonList(): 3
+[1637134543067] sched.py:answerCard(): 1
+[1637134543098] cards.py:flushSched(): {'data': '', 'did': 1636444185812, 'due': 1637134613, 'factor': 0, 'flags': 0, 'id': 1636356633068, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637134543, 'nid': 1636356620946, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 3, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637134543099] sched.py:getCard(): {'data': '', 'did': 1636444185812, 'due': 1637134528, 'factor': 0, 'flags': 0, 'id': 1636356644907, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637134468, 'nid': 1636356633074, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1}
+[1637134545631] reviewer.py:_answerButtonList(): 3
+[1637134548534] sched.py:answerCard(): 1
+[1637134548562] cards.py:flushSched(): {'data': '', 'did': 1636444185812, 'due': 1637134609, 'factor': 0, 'flags': 0, 'id': 1636356644907, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637134548, 'nid': 1636356633074, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 3, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637134548563] sched.py:getCard(): {'data': '', 'did': 1636444185812, 'due': 1637134531, 'factor': 0, 'flags': 0, 'id': 1636356669252, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637134471, 'nid': 1636356656555, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1}
+[1637134549625] reviewer.py:_answerButtonList(): 3
+[1637134550767] sched.py:answerCard(): 2
+[1637134550801] cards.py:flushSched(): {'data': '', 'did': 1636444185812, 'due': 1637135194, 'factor': 0, 'flags': 0, 'id': 1636356669252, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1637134550, 'nid': 1636356656555, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 3, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637134550801] sched.py:getCard(): {'data': '', 'did': 1636444185812, 'due': 1637134539, 'factor': 0, 'flags': 0, 'id': 1636356656548, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637134479, 'nid': 1636356644914, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1}
+[1637134553115] reviewer.py:_answerButtonList(): 3
+[1637134555217] sched.py:answerCard(): 1
+[1637134555248] cards.py:flushSched(): {'data': '', 'did': 1636444185812, 'due': 1637134617, 'factor': 0, 'flags': 0, 'id': 1636356656548, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637134555, 'nid': 1636356644914, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 3, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637134555249] sched.py:getCard(): {'data': '', 'did': 1636444185812, 'due': 1637134550, 'factor': 0, 'flags': 0, 'id': 1636356569483, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637134490, 'nid': 1636356566482, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 3, 'type': 1, 'usn': -1}
+[1637134557618] reviewer.py:_answerButtonList(): 3
+[1637134560212] sched.py:answerCard(): 1
+[1637134560246] cards.py:flushSched(): {'data': '', 'did': 1636444185812, 'due': 1637134624, 'factor': 0, 'flags': 0, 'id': 1636356569483, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637134560, 'nid': 1636356566482, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 4, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637134560246] sched.py:getCard(): {'data': '', 'did': 1636444185812, 'due': 1637134554, 'factor': 0, 'flags': 0, 'id': 1636356680372, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637134484, 'nid': 1636356669259, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1}
+[1637134562078] reviewer.py:_answerButtonList(): 3
+[1637134566503] sched.py:answerCard(): 1
+[1637134566534] cards.py:flushSched(): {'data': '', 'did': 1636444185812, 'due': 1637134637, 'factor': 0, 'flags': 0, 'id': 1636356680372, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637134566, 'nid': 1636356669259, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 3, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637134566534] sched.py:getCard(): {'data': '', 'did': 1636444185812, 'due': 1637134561, 'factor': 0, 'flags': 0, 'id': 1636356691884, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637134501, 'nid': 1636356680380, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1}
+[1637134568530] reviewer.py:_answerButtonList(): 3
+[1637134570851] sched.py:answerCard(): 1
+[1637134570885] cards.py:flushSched(): {'data': '', 'did': 1636444185812, 'due': 1637134644, 'factor': 0, 'flags': 0, 'id': 1636356691884, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637134570, 'nid': 1636356680380, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 3, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637134570885] sched.py:getCard(): {'data': '', 'did': 1636444185812, 'due': 1637134573, 'factor': 0, 'flags': 0, 'id': 1636356703651, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637134512, 'nid': 1636356691891, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1}
+[1637134573747] reviewer.py:_answerButtonList(): 3
+[1637134574895] sched.py:answerCard(): 1
+[1637134574932] cards.py:flushSched(): {'data': '', 'did': 1636444185812, 'due': 1637134643, 'factor': 0, 'flags': 0, 'id': 1636356703651, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637134574, 'nid': 1636356691891, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 3, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637134574933] sched.py:getCard(): {'data': '', 'did': 1636444185812, 'due': 1637134580, 'factor': 0, 'flags': 0, 'id': 1636356581532, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637134516, 'nid': 1636356569491, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 3, 'type': 1, 'usn': -1}
+[1637134578673] reviewer.py:_answerButtonList(): 3
+[1637134579375] sched.py:answerCard(): 2
+[1637134579410] cards.py:flushSched(): {'data': '', 'did': 1636444185812, 'due': 1637135179, 'factor': 0, 'flags': 0, 'id': 1636356581532, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1637134579, 'nid': 1636356569491, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 4, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637134579410] sched.py:getCard(): {'data': '', 'did': 1636444185812, 'due': 1637134589, 'factor': 0, 'flags': 0, 'id': 1636356620939, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637134526, 'nid': 1636356607932, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 3, 'type': 1, 'usn': -1}
+[1637134583270] reviewer.py:_answerButtonList(): 3
+[1637134584915] sched.py:answerCard(): 1
+[1637134584950] cards.py:flushSched(): {'data': '', 'did': 1636444185812, 'due': 1637134644, 'factor': 0, 'flags': 0, 'id': 1636356620939, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637134584, 'nid': 1636356607932, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 4, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637134584951] sched.py:getCard(): {'data': '', 'did': 1636444185812, 'due': 1637134594, 'factor': 0, 'flags': 0, 'id': 1636356593364, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637134529, 'nid': 1636356581538, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 3, 'type': 1, 'usn': -1}
+[1637134586064] reviewer.py:_answerButtonList(): 3
+[1637134586695] sched.py:answerCard(): 2
+[1637134586731] cards.py:flushSched(): {'data': '', 'did': 1636444185812, 'due': 1637135186, 'factor': 0, 'flags': 0, 'id': 1636356593364, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1637134586, 'nid': 1636356581538, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 4, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637134586731] sched.py:getCard(): {'data': '', 'did': 1636444185812, 'due': 1637134609, 'factor': 0, 'flags': 0, 'id': 1636356644907, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637134548, 'nid': 1636356633074, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 3, 'type': 1, 'usn': -1}
+[1637134589792] reviewer.py:_answerButtonList(): 3
+[1637134594919] sched.py:answerCard(): 1
+[1637134594953] cards.py:flushSched(): {'data': '', 'did': 1636444185812, 'due': 1637134654, 'factor': 0, 'flags': 0, 'id': 1636356644907, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637134594, 'nid': 1636356633074, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 4, 'type': 1, 'usn': -1, 'wasNew': False}
+[1637134594953] sched.py:getCard(): {'data': '', 'did': 1636444185812, 'due': 1637134613, 'factor': 0, 'flags': 0, 'id': 1636356633068, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1637134543, 'nid': 1636356620946, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 3, 'type': 1, 'usn': -1}
+[1637134597328] reviewer.py:_answerButtonList(): 3
