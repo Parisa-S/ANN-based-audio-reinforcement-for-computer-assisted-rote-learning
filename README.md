@@ -11,18 +11,15 @@ as -1. That means the card is removed from the deck of other participants. So th
 
 **Model development**
 
-The function estimator_model.py is used for building the estimator. We considered building a devoted model for each of the three types of learning task ( i.e. relatively easy verbal task, relatively hard verbal task, and numerical task). First, the pre-processed data file (pickle files) are loaded and the different behavioral variables stored in each column are separated. Next, log-normalization is applied followed by principal component analysis (PCA) to the retained data. Subsequently, in order to  increase the number of data points, we run synthetic minority oversampling (SMOTE), which completes data processing. then, we develop a Naive Bayes classifier which serves as a model for estimation of likelihood of remembering/forgetting. We test the accuracy of the models and save them into  the pickle files ready to be imported by the e-learning software.
+The function build_NN_model.py is used for building the estimator. We considered building a  model for every learning tasks. First, the input data file (pickle files) are loaded and the different behavioral variables stored in each column are separated.We drop the column which is not be used for build the model out. Next, StandardScaler is applied to the retained data. Subsequently, we reshape the list the train set and convert label data set to be categorical data which is required before fed into the model. then, we develop an artificial neural network which serves as a model for estimation of memory performance. We test the accuracy of the models and save them into the pickle files ready to be imported by the e-learning software.
 
 **Integration of the model to the e-learning software**
 
-The function controller.py is integrated with the e-learning software for estimating in an online manner the learners' likelihood of remembering/forgetting. First, the behavioral variables are calculated. 
+The function add_on_model.py is integrated with the e-learning software for estimating in an online manner. First, the behavioral variables are calculated.
 
-Should the operating mode of the e-learning software be 'Estimation', the variables are then pre-processed in the same way as described above. The pre-trained estimation model corresponding to the type of the learning material that is being studied is loaded and the pre-processed variables are fed into it as inputs. Depending on the estimation result, the audio key (i.e. trigger or no-trigger) is set and stored in a log file.
-    
-Should the operating mode of the e-learning software be 'Random', an arbitrary number between 0 and 1 is drawn and compared to a threshold, which is adjusted as the empirical rate of forgetting. If it is lower than the threshold, then the audio key is set to be 'ON' (i.e. audio will be triggered). Finally,  the audio trigger log file is updated 
+Should the operating mode of the e-learning software be 'Estimation', the variables are then prepared in the same way as described above. The pre-trained estimation model is loaded and the prepared variables are fed into it as inputs. Depending on the estimation result, the audio key (i.e. trigger or no-trigger) is set and stored in a log file.
 
-Should the operating mode of the e-learning software be 'Visual',  the leaner is assumed to remember any card in any deck and the audio key is set to 'OFF' (no triggering of audio). The audio trigger log file is updated accordingly.
-    
+Should the operating mode of the e-learning software be 'Full audio reinforcement',the audio key is set to 'ON' (alway triggering of audio). The audio trigger log file is updated accordingly.
 
 **References**
 
