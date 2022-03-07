@@ -11,13 +11,19 @@ The temporal variables are registered in  UNIX time at millisecond resolution an
 
 On the other hand, the identifier variables are integer codes used to determine the deck or card that is being studied (i.e.displayed) at a given time instant (e.g. deck ID, card ID). Note that each log file is associated with a single user. Namely, the software recorded one log file into the account of each user. In addition, each line of the activity log file  corresponds to a single action of the user which is considered as a reaction to the software. The structure of each line of data is as follows:  [unix time], function name, data in detail (i.e. flags, queue).
 
+**Memory Score file**
+
+This memory_score file is used for storing the memory performance score which participants take in experiments. The file contains 6 sheets, 3 for the exploration stage and 3 for the verification stage. At each stage, before test score, short-term test score and mid-term test score are stored in separate sheets.
+
+Regarding the memory test score, if the participant recall successfully, we register the score of that card with 1, otherwise 0. Each column contains information for each participant and each row contains information for each card. In addition, the card ID, Q-face and A-face information is also written on the left hand side of each row as a key for matching with the activity log files.
+
 **Model development**
 
-The function build_NN_model.py is used for building the estimator. We considered building a  model for every learning tasks. First, the input data file (pickle files) are loaded and the different behavioral variables stored in each column are separated.We drop the column which is not be used for build the model out. Next, StandardScaler is applied to the retained data. Subsequently, we reshape the list the train set and convert label data set to be categorical data which is required before fed into the model. then, we develop an artificial neural network which serves as a model for estimation of memory performance. We test the accuracy of the models and save them into the pickle files ready to be imported by the e-learning software.
+The function NN_model_builder.py is used for building the estimator. We considered building a  model for every learning tasks. First, the input data file (pickle files) are loaded and the different behavioral variables stored in each column are separated.We drop the column which is not be used for build the model out. Next, StandardScaler is applied to the retained data. Subsequently, we reshape the list the train set and convert label data set to be categorical data which is required before fed into the model. then, we develop an artificial neural network which serves as a model for estimation of memory performance. We test the accuracy of the models and save them into the pickle files ready to be imported by the e-learning software.
 
 **Integration of the model to the e-learning software**
 
-The function add_on_model.py is integrated with the e-learning software for estimating in an online manner. First, the behavioral variables are calculated.
+The function NN_model_integration.py is integrated with the e-learning software for estimating in an online manner. First, the behavioral variables are calculated.
 
 Should the operating mode of the e-learning software be 'Estimation', the variables are then prepared in the same way as described above. The pre-trained estimation model is loaded and the prepared variables are fed into it as inputs. Depending on the estimation result, the audio key (i.e. trigger or no-trigger) is set and stored in a log file.
 
