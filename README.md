@@ -1,4 +1,4 @@
-# Building an estimation model of learners' performance 
+# ANN-based audio reinforcement for computer assisted rote learning
 
 This repository contains the custom codes and tools developed to obtain the results reported in our article [1]:
 Note that the raw data set contains privacy sensitive information, which is concealed in this release.
