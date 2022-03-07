@@ -32,13 +32,12 @@ Should the operating mode of the e-learning software be 'Full audio reinforcemen
 **References**
 
 [1] ANN-based audio reinforcement for computer assisted rote learning,
-P. Supitayakul, Z. Yücel, A. Monden, and P. Leelaprute,
-Under review
+Authors, Under review
 
 [2] D. Elmes, “Anki - friendly, intelligent flashcards.” https://ankiweb.net/about, 2021.
 
-[3] Identification of behavioral variables for efficient representation of difficulty in vocabulary learning systems,
-P. Supitayakul, Z. Yücel, A. Monden, and P. Leelaprute,
+[3] P. Supitayakul, Z. Yücel, A. Monden, and P. Leelaprute,
+Identification of behavioral variables for efficient representation of difficulty in vocabulary learning systems,
 International Journal of Learning Technologies and Learning Environments, vol. 3, no. 1, pp. 51–60, 2020.
 
 [4] P. Supitayakul, Displaying visual stimuli and recording audio, https://github.com/Parisa-S/Displaying-visual-stimuli-and-recording-audio.
